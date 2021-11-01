@@ -1,0 +1,708 @@
+/* 
+  Localizable.strings
+  GlobalBuyer
+
+  Created by 薛铭 on 2017/6/19.
+  Copyright © 2017年 薛铭. All rights reserved.
+*/
+"GlobalBuyer_OnlineService" = "オンラインサービス";
+
+"GlobalBuyer_Nativelanguage" = "Japanese";
+
+"GlobalBuyer_Home_title" = "wotada";
+"GlobalBuyer_Homepage" = "ホームページ";
+"GlobalBuyer_Classification" = "ウェブサイト";
+"GlobalBuyer_ShoppingCart" = "ショッピング車";
+"GlobalBuyer_My" = "私の";
+"GlobalBuyer_Help" = "手伝いをする";
+"GlobalBuyer_Helpcenter" = "ヘルプセンター";
+
+"GlobalBuyer_Network_StatusNotReachable" = "今はインターネットに接続していない";
+"GlobalBuyer_Network_StatusReachableViaWWAN" = "現在、セルラーモバイルネットワークを使用しています。";
+"GlobalBuyer_Network_StatusReachableViaWiFi" = "今はwifiを使っています";
+
+"GlobalBuyer_Prompt" = "ヒント";
+"GlobalBuyer_Ok" = "確定する";
+"GlobalBuyer_Cancel" = "取り消す";
+"GlobalBuyer_Done" = "完了";
+
+"GlobalBuyer_Selectcurrency" = "納品地区を選んでください";
+"GlobalBuyer_Close" = "閉鎖する";
+"GlobalBuyer_Loading" = "リロード中...";
+
+"GlobalBuyer_InputOriginal" = "英語や地元の語種がキーワードとして、商品を探しやすい。";
+
+"GlobalBuyer_Searching" = "検索";
+
+"GlobalBuyer_Tabview_down_MJRefreshStateIdle" = "リフレッシュできます";
+"GlobalBuyer_Tabview_down_MJRefreshStatePulling" = "すぐに更新する";
+"GlobalBuyer_Tabview_down_MJRefreshStateRefreshing" = "頑張って更新している";
+"GlobalBuyer_Tabview_up_MJRefreshStateIdle" = "クリックしますか？";
+"GlobalBuyer_Tabview_up_MJRefreshStatePulling" = "アップロード中ですが...";
+"GlobalBuyer_Tabview_up_MJRefreshStateRefreshing" = "ありません";
+
+"GlobalBuyer_Home_maskView_placeHolder"="商品のURLを入力してください";
+"GlobalBuyer_Home_maskView_prompt"="使用方法は図のように";
+"GlobalBuyer_Home_HeaderView_Theme" = "テーマ館";
+"GlobalBuyer_Home_HeaderView_TB_Transport" = "宝を洗って積み重ねる";
+"GlobalBuyer_Home_HeaderView_LookingGoods" = "商品を探す";
+"GlobalBuyer_Home_HeaderView_Classification" = "分類する";
+"GlobalBuyer_Home_HeaderView_TaobaoCollection" = "運送サービス";
+"GlobalBuyer_Home_HeaderView_Comprehensive" = "総合";
+"GlobalBuyer_Home_HeaderView_Popularity" = "人気";
+"GlobalBuyer_Home_HeaderView_Originalprice" = "割引";
+"GlobalBuyer_Home_HeaderView_Discountprice" = "最新";
+"GlobalBuyer_Home_Nowprice" = "価格";
+"GlobalBuyer_Home_price" = "原価";
+"GlobalBuyer_Home_Discountprice" = "割引価格";
+"GlobalBuyer_Home_Allprice" = "総計";
+"GlobalBuyer_Home_Discount" = "折を折る";
+"GlobalBuyer_Home_Notice" = "公告";
+"GlobalBuyer_Home_PurchasingLink" = "wotadotadaが購入したい商品を検出し、リンクを貼り、気軽に購入します。";
+"GlobalBuyer_Home_GlobalClassification" = "世界の名乗り";
+"GlobalBuyer_Home_SearchEmpty_one" = "申し訳ありませんが、見つかりませんでした。’";
+"GlobalBuyer_Home_SearchEmpty_two" = "‘関連商品";
+"GlobalBuyer_Home_Search_deleteHis" = "歴史記録を一掃する";
+
+
+"GlobalBuyer_Shopcart_SubmitPurchasing" = "購入書を提出する";
+"GlobalBuyer_Shopcart_Pay" = "商品の費用を払う";
+"GlobalBuyer_Shopcart_Purchasing" = "wotada購入";
+"GlobalBuyer_Shopcart_SubmitTransport" = "購入書を提出する";
+"GlobalBuyer_Shopcart_ConfirmReceipt" = "納品を確認する";
+"GlobalBuyer_Shopcart_Shoppingguide" = "ショッピングの心得";
+"GlobalBuyer_Shopcart_Shoppingguide_1" = "1 .現在のお支払いの金額は、商品の国内で発生した費用だけです。商品の仕入れが成功した後に、「私の注文」では、国際料金（関税、運賃等）をお支払いください。";
+"GlobalBuyer_Shopcart_Shoppingguide_2" = "2 .ショッピングカートを追加した後、30分以内に決済を完了するようにしてください。そうでなければ、商品の効果は自動的に「私の」→「コレクション」に追加されます。";
+"GlobalBuyer_Shopcart_Shoppingguide_3" = "3 .展示商品割引は、制限時の買い取り割引として、最終的な決済価格はウェブサイトの決算価格を基準としている。";
+"GlobalBuyer_Shopcart_Shoppingguide_4" = "4 .商品を購入する時、私達は10元の人民元のサービス費を受け取ります。";
+"GlobalBuyer_Shopcart_login" = "すぐにログイン";
+"GlobalBuyer_Shopcart_Nologin" = "あなたはまだログインしていません";
+"GlobalBuyer_Shopcart_NoGoodsNotice" = "ショッピング車には物がないよ、早く行ってみて。";
+"GlobalBuyer_Shopcart_Allprice" = "合計する";
+"GlobalBuyer_Shopcart_Allselect" = "全選";
+"GlobalBuyer_Shopcart_Settlement" = "決算に行く";
+"GlobalBuyer_Shopcart_Remainingtime" = "残りの時間";
+"GlobalBuyer_Shopcart_Notice" = "商品はすでに無効になり,左にスライドして再操作する";
+"GlobalBuyer_Shopcart_SettlementAlert" = "一部の商品決済過程で値を整え、最終決済金額はインターフェースを基準とする。";
+"GlobalBuyer_Shopcart_AllNotice" = "関税＋国際運賃を含まない";
+"GlobalBuyer_Shopcart_ExpiredHint" = "買い物車の商品は24時間後、価格の変動によって私に移されます。";
+"GlobalBuyer_NoPayView_ExpiredHint"= "お支払いは24時間後に失効してショッピング車に移動します。";
+"GlobalBuyer_My_Login" = "ログインをクリック";
+"GlobalBuyer_My_DistributionActivities" = "招待者連盟に参加して、最高に10 %の利益を得ることができます";
+"GlobalBuyer_My_Tabview_Order" = "私の";
+"GlobalBuyer_My_Tabview_Coupon" = "私の特典券";
+"GlobalBuyer_My_Tabview_Coupon_Date" = "有効期限まで";
+"GlobalBuyer_My_Tabview_Coupon_Type_1" = "サービス料\n低値券";
+"GlobalBuyer_My_Tabview_InputCouponCode" = "両替番号を入力してください";
+"GlobalBuyer_My_Tabview_InputCouponCode_Success" = "両替が成功する";
+"GlobalBuyer_My_Tabview_Exchange" = "両替する";
+"GlobalBuyer_My_Tabview_Collection" = "コレクション";
+"GlobalBuyer_My_Tabview_HeaderTitle" = "注文書";
+"GlobalBuyer_My_Tabview_Cell_All" = "すべての注文";
+"GlobalBuyer_My_Tabview_Cell_Wait" = "注文の支払いを待つ";
+"GlobalBuyer_My_Tabview_Cell_SubmitAdd" = "住所を提出する";
+"GlobalBuyer_My_Tabview_Cell_Purchase" = "仕入れ中";
+"GlobalBuyer_My_Tabview_Cell_Paytransport" = "運賃を払う";
+"GlobalBuyer_My_Tabview_Cell_Overseas" = "海外出荷";
+"GlobalBuyer_My_Tabview_Cell_Add" = "配送先の住所";
+"GlobalBuyer_My_NavRight" = "個人情報";
+"GlobalBuyer_My_Addmanagement" = "アドレス管理";
+"GlobalBuyer_My_About" = "について";
+"GlobalBuyer_My_About_cell" = "wotadaについて";
+"GlobalBuyer_My_About_Version" = "バージョン";
+"GlobalBuyer_My_About_Collection" = "コレクション";
+
+
+"GlobalBuyer_Order_title" = "物流情報";
+"GlobalBuyer_Order_Weight" = "小包の重さ";
+"GlobalBuyer_Order_all" = "すべて";
+"GlobalBuyer_Order_Pay_Message" = "支払い通知";
+"GlobalBuyer_Order_Pay_Message_commodity" = "支払いが成功する";
+"GlobalBuyer_Order_Pay_Message_fail" = "支払いに失敗する";
+"GlobalBuyer_Order_Pay_Message_freight" = "送料のお支払いに成功しました。";
+"GlobalBuyer_Order_Pay_Message_Incalculation" = "運賃は計算中ですので、後ほどお願いします";
+"GlobalBuyer_Order_Pay_Message_AddAdd" = "アドレスを追加しています...";
+"GlobalBuyer_Order_Pay_Message_Queryfailed" = "検索に失敗しました。";
+"GlobalBuyer_Order_Pay_status_nopay" = "注文状態：未払い商品";
+"GlobalBuyer_Order_Pay_status_nopay_btn" = "商品を支払う";
+"GlobalBuyer_Order_Pay_status_Add" = "注文状態：商品の支払いを完了し、受信者のアドレスをクリックしてください。";
+"GlobalBuyer_Order_Pay_status_Add_btn" = "アドレスを追加";
+"GlobalBuyer_Order_Pay_status_freighting" = "注文状態：商品の支払いを完了し、運賃の計算を待つ";
+"GlobalBuyer_Order_Pay_status_freight_btn" = "運賃を払う";
+"GlobalBuyer_Order_Pay_status_freight" = "ご注文の状態：運賃をお支払いください";
+"GlobalBuyer_Order_Pay_status_Inpurchasing" = "注文状態：仕入れ中";
+"GlobalBuyer_Order_Pay_status_done" = "注文した状態：注文が完了しました。";
+"GlobalBuyer_Order_Pay_status_done_btn" = "物流を調べる";
+"GlobalBuyer_Order_Pay_TheAmount" = "今回の支払い金額";
+"GlobalBuyer_Order_Pay_SetPWD" = "パスワードを設定してください";
+"GlobalBuyer_Order_Pay_NOSetPWD" = "お財布のパスワードを設定していません";
+"GlobalBuyer_Order_Pay_AgainSetPWD" = "パスワードの再確認";
+"GlobalBuyer_Order_Pay_IsBan" = "お財布が凍結されましたので、お客様にご連絡ください。";
+"GlobalBuyer_Order_Pay_NotEnough" = "残高不足は会員センターにお越しください";
+
+"GlobalBuyer_UserInfo_change" = "変更する";
+"GlobalBuyer_UserInfo_exit" = "アカウントを終了する";
+"GlobalBuyer_UserInfo_Alert_title" = "友情のヒント";
+"GlobalBuyer_UserInfo_Alert_message" = "本当にアカウントを脱退するつもりですか？";
+"GlobalBuyer_UserInfo_name" = "真実の名前";
+"GlobalBuyer_UserInfo_nickname" = "ユーザー名";
+"GlobalBuyer_UserInfo_ID" = "身分証番号";
+"GlobalBuyer_UserInfo_ID_F" = "アップロードする身分証の正面";
+"GlobalBuyer_UserInfo_ID_B" = "身分証の裏をアップロードする";
+"GlobalBuyer_UserInfo_Gender" = "性别";
+"GlobalBuyer_UserInfo_phone" = "電話";
+"GlobalBuyer_UserInfo_nan" = "男";
+"GlobalBuyer_UserInfo_nv" = "女";
+"GlobalBuyer_UserInfo_Birthday" = "誕生日";
+"GlobalBuyer_UserInfo_changeInfo" = "個人情報を修正する";
+"GlobalBuyer_UserInfo_choesnanornv" = "性別の選択";
+"GlobalBuyer_UserInfo_changename" = "真実の名前を修正する";
+"GlobalBuyer_UserInfo_changenickname" = "ユーザーの名前を変更する";
+"GlobalBuyer_UserInfo_changeID" = "身分証番号を変更する";
+"GlobalBuyer_UserInfo_changephone" = "電話番号を変更する";
+"GlobalBuyer_UserInfo_changePW" = "パスワードを修正する";
+"GlobalBuyer_UserInfo_PWGuide" = "6 - 20名、アルファベットのパスワードを入力してください";
+"GlobalBuyer_UserInfo_AgnPWGuide" = "6 - 20名、アルファベットのパスワードを再度入力してください";
+"GlobalBuyer_UserInfo_PWError" = "6 - 20数字とアルファベットのパスワードを入力してください";
+"GlobalBuyer_UserInfo_PWdif" = "2回のパスワードが合わない";
+"GlobalBuyer_UserInfo_BankId" = "銀行のカード番号";
+"GlobalBuyer_UserInfo_DataError" = "資料の完全性を記入してください";
+
+
+"GlobalBuyer_Address_title" = "配送アドレスを追加";
+"GlobalBuyer_Address_NoAddmessage" = "まだ住所を選択していません";
+"GlobalBuyer_Address_AddNewAdd" = "新しいアドレスを追加";
+"GlobalBuyer_Address_deleteAdd" = "削除しています...";
+"GlobalBuyer_Address_getAdd" = "情報を取得しています...";
+"GlobalBuyer_Address_AddAdmin" = "アドレス管理";
+"GlobalBuyer_Address_EditAdd" = "新しい住所";
+"GlobalBuyer_Address_DefaultAdd" = "デフォルトのアドレスに設定";
+"GlobalBuyer_Address_MessageIncomplete" = "情報の記入が不完全である";
+"GlobalBuyer_Address_Saveing" = "保存しています...";
+"GlobalBuyer_Address_Adddetails" = "アドレス帳";
+"GlobalBuyer_Address_Save" = "保存する";
+"GlobalBuyer_Address_ShopDetail_Message_translate" = "後で翻訳してください";
+"GlobalBuyer_Address_ShopDetail_Message_noselect" = "商品のタイプはまだ選択されていませんが、商品のタイプを選択してください";
+"GlobalBuyer_Address_AddShopcart" = "私は買います";
+"GlobalBuyer_Address_AddTransport" = "私は輸送をします";
+"GlobalBuyer_Address_AddShopcart_Add" = "ショッピングカー";
+"GlobalBuyer_Address_Adding" = "追加しています...";
+"GlobalBuyer_Address_DefaultAdds" = "デフォルトのアドレス";
+"GlobalBuyer_Address_Edit" = "編集する";
+"GlobalBuyer_Address_dele" = "削除";
+
+
+"GlobalBuyer_Map_Seekfailed" = "位置決め失敗";
+"GlobalBuyer_Map_Seekfailed_Message" = "携帯電話の設置において、位置付け機能\ nを開いて、プライバシーの位置を設定してください";
+"GlobalBuyer_Map_SearchPlace" = "検索場所";
+"GlobalBuyer_Map_beijing" = "北京";
+"GlobalBuyer_Map_shanghai" = "上海";
+"GlobalBuyer_Map_guangzhou" = "广州";
+"GlobalBuyer_Map_shenzhen" = "深圳";
+"GlobalBuyer_Map_xiamen" = "厦门";
+"GlobalBuyer_Map_dalian" = "大连";
+"GlobalBuyer_Map_aomen" = "澳门";
+"GlobalBuyer_Map_xianggang" = "香港";
+"GlobalBuyer_Map_taiwan" = "台湾";
+"GlobalBuyer_Map_PlaceRst" = "場所検索結果";
+
+
+"GlobalBuyer_LoginView_login" = "登録する";
+"GlobalBuyer_LoginView_submit" = "提出の確認";
+"GlobalBuyer_LoginView_improve" = "アカウント情報の充実";
+"GlobalBuyer_LoginView_thirdlogin" = "第三者アカウントの登録";
+"GlobalBuyer_LoginView_forgotPW" = "パスワードを忘れる";
+"GlobalBuyer_LoginView_register" = "すぐに登録する";
+"GlobalBuyer_LoginView_inputEmail" = "メールを入力してください";
+"GlobalBuyer_LoginView_inputAccount" = "康霖生活事業会員番号を入力してください";
+"GlobalBuyer_LoginView_inputPW" = "パスワードを入力してください";
+"GlobalBuyer_LoginView_EmailError" = "メールのフォーマットが正しくない";
+"GlobalBuyer_LoginView_PWError" = "パスワードを入力してください";
+"GlobalBuyer_LoginView_AccountError" = "アカウントを入力してください";
+"GlobalBuyer_LoginView_logining" = "ログインしています...";
+"GlobalBuyer_LoginView_Prompt" = "暖かさのヒント";
+"GlobalBuyer_LoginView_PromptMessage" = "先にマイクロメッセージクライアントをインストールしてください";
+
+"GlobalBuyer_LoginView_BindPhoneNumber" = "電話をかけてください";
+"GlobalBuyer_LoginView_VerificationCode" = "検証コード";
+"GlobalBuyer_LoginView_GetVerificationCode" = "検証コードを取得";
+"GlobalBuyer_LoginView_InputPhoneNumber" = "電話を入力してください";
+"GlobalBuyer_LoginView_InputVerificationCode" = "検証コードを入力してください";
+"GlobalBuyer_LoginView_RepeatedAcquisition" = "60秒以内での再取得は禁止されています";
+
+"GlobalBuyer_RegisterView_UserRegister" = "ユーザー登録";
+"GlobalBuyer_RegisterView_Register" = "登録する";
+"GlobalBuyer_RegisterView_Registering" = "登録中ですので、しばらくお待ちください";
+
+
+"GlobalBuyer_PayView_title" = "支払いをする";
+"GlobalBuyer_PayView_paytype_1" = "クレジットカードは一回払います";
+"GlobalBuyer_PayView_paytype_2" = "スーパーコードの支払い";
+"GlobalBuyer_PayView_paytype_3" = "支払った宝の支払い";
+"GlobalBuyer_PayView_paytype_4" = "銀聯払い";
+"GlobalBuyer_PayView_choespaytype" = "常用支払方法";
+"GlobalBuyer_PayView_otherpaytype" = "その他の支払い方法";
+"GlobalBuyer_PayView_taiwan" = "台湾での支払い";
+"GlobalBuyer_PayView_dalu" = "大陸払い";
+"GlobalBuyer_PayView_Audit" = "人件費を提出して、お客様とご連絡をお待ちください。";
+
+
+"GlobalBuyer_Entrust_Artificial" = "価格の変動が大きいので、人工検閲を提出してください。";
+"GlobalBuyer_Entrust_ArtificialLiaison" = "あるいは直接客服の操作を連絡します。";
+"GlobalBuyer_Entrust_expenseListLb" = "依頼書の試算";
+"GlobalBuyer_Entrust_firstPayLb" = "初めての支払い費用";
+"GlobalBuyer_Entrust_commodityCostLb" = "商品料金";
+"GlobalBuyer_Entrust_purchasingLb" = "サービス料";
+"GlobalBuyer_Entrust_freightLb" = "運賃1キロを前払いする";
+"GlobalBuyer_Entrust_serviceChargeLb" = "手数料を払う";
+"GlobalBuyer_Entrust_promptLb" = "（初＋二次料金）";
+"GlobalBuyer_Entrust_totalLb" = "総価格を見積もる";
+"GlobalBuyer_Entrust_secondPayLb" = "支払費用2回";
+"GlobalBuyer_Entrust_secondPayRightLb" = "商品は倉の後に払う";
+"GlobalBuyer_Entrust_secondPayDetailsLb" = "消費税";
+"GlobalBuyer_Entrust_secondPayDetailsRightLb" = "倉の後に確認する";
+"GlobalBuyer_Entrust_commodityCostLb_2" = "運賃を見積もる";
+"GlobalBuyer_Entrust_purchasingLb_2" = "現地運賃";
+"GlobalBuyer_Entrust_freightLb_2" = "関税";
+"GlobalBuyer_Entrust_serviceChargeLb_2" = "手数料を払う";
+"GlobalBuyer_Entrust_serviceChargeRightLb" = "具体的な支払いの際に発生した費用は";
+"GlobalBuyer_Entrust_noticeLb" = "この商品は海外3番目のプラットフォーム商品で、wotadaは購入サービスのみを提供しており、できるだけ購入中の問題を調整し、その中のいかなる責任を負担しません。";
+"GlobalBuyer_Entrust_btn" = "ショッピングカー";
+"GlobalBuyer_Entrust_close" = "閉鎖する";
+"GlobalBuyer_Entrust_Commoditydetails" = "商品の詳細";
+"GlobalBuyer_Entrust_Webdetails" = "ウェブサイトの詳細";
+"GlobalBuyer_Entrust_About" = "約束する";
+"GlobalBuyer_Entrust_globalbear" = "wotadaが引き受ける";
+
+"GlobalBuyer_Entrust_counting" = "計算中…";
+"GlobalBuyer_Entrust_Estimatedweight" = "チェック重量（KG）（自分で設定してください）";
+"GlobalBuyer_Entrust_current" = "現在";
+"GlobalBuyer_Entrust_Category_1" = "商品の商品";
+"GlobalBuyer_Entrust_Category_2" = "特製品";
+"GlobalBuyer_Entrust_Category_3" = "液体商品";
+"GlobalBuyer_Entrust_Category_4" = "家具商品";
+"GlobalBuyer_Entrust_Category_explain_1" = "普通貨物は、食品、化粧品、模倣類、電池類、液体類などの特殊な商品のほかに";
+"GlobalBuyer_Entrust_Category_explain_2" = "食品、化粧品（液体を除く）、電池類などの特殊な商品";
+"GlobalBuyer_Entrust_Category_explain_3" = "液体類の商品";
+"GlobalBuyer_Entrust_Category_explain_4" = "家具類（原木純鉄を除く）";
+
+"GlobalBuyer_Entrust_Category_loadingPlaceRightLb" = "倉庫を見合わせる";
+"GlobalBuyer_Entrust_Category_commodityCostRightLb" = "この路線はまだ開通していない";
+"GlobalBuyer_Entrust_Category_shippingAreaLb" = "出荷地区";
+"GlobalBuyer_Entrust_Category_loadingPlaceLb" = "品物を集める";
+"GlobalBuyer_Entrust_Category_receivingAreaLb" = "納入地区";
+"GlobalBuyer_Entrust_Category_categoryLb" = "商品カテゴリを選択してください";
+"GlobalBuyer_Entrust_Category_categoryNoticeLb" = "(ローカル税関の標準に合わない場合は、ローカル税関の収収カテゴリを基準とします。)";
+"GlobalBuyer_Entrust_Category_selectArea" = "集荷地区を選んでください";
+"GlobalBuyer_Entrust_Category_ChinaFreight" = "詳しく説明する";
+"GlobalBuyer_Entrust_Category_TWFreight" = "詳しく説明する";
+"GlobalBuyer_Entrust_Category_Checkouttoview" = "決済時にチェックする";
+
+"GlobalBuyer_CollectionViewController_Source" = "出所";
+"GlobalBuyer_CollectionViewController_Remark" = "備考";
+"GlobalBuyer_CollectionViewController_Calculation" = "試算";
+"GlobalBuyer_SearchViewController_placeholder" = "全世界の大手電商のプラットフォーム商品を直捜して直接購入する";
+"GlobalBuyer_SearchViewController_alertMessage" = "このタイプの商品を見合わせる";
+"GlobalBuyer_SearchViewController_section_1" = "ブランドのウェブサイトを含む";
+"GlobalBuyer_SearchViewController_section_2" = "同品類のサイトを含む";
+"GlobalBuyer_SearchViewController_Alert_first" = "私たちはあなたのキーワードを英語に変える";
+"GlobalBuyer_SearchViewController_Alert_left" = "原文を使う";
+"GlobalBuyer_SearchViewController_Alert_right" = "訳文を使う";
+
+"GlobalBuyer_HelpViewController_OnlineService" = "オンラインサービス";
+"GlobalBuyer_HelpViewController_CustomerServiceHotline" = "客服の熱線";
+"GlobalBuyer_HelpViewController_Tips" = "小判";
+"GlobalBuyer_HelpViewController_QAA" = "一般的な問題";
+"GlobalBuyer_HelpViewController_Newbiezone" = "初心者";
+"GlobalBuyer_HelpViewController_servicemode" = "サービス方式";
+"GlobalBuyer_HelpViewController_Rightsprotection" = "権益保障";
+
+
+
+"GlobalBuyer_Special_SingleItemRecommendation" = "単品推薦";
+"GlobalBuyer_Special_Selling" = "あなたのほうがいいですよ";
+"GlobalBuyer_Special_More" = "もっと";
+"GlobalBuyer_Special_HotRecommendation" = "人気のお勧め";
+"GlobalBuyer_Special_Discount" = "サプライズでサプライズが続く";
+"GlobalBuyer_Special_Web" = "ウェブサイト";
+
+"GlobalBuyer_LoadingView_message_1" = "アメリカ最大の割引シーズンですが、毎年の感謝祭の間にwotadaをお供してお買い上げになりますが…。";
+"GlobalBuyer_LoadingView_message_2" = "1つの正品LVの上の図案はブレスレットに分割されることはありません。上はwotada、目金がよくて買った安心…。";
+"GlobalBuyer_LoadingView_message_3" = "10の1は必ず早めに注文しなければならなくて、さもなくばとても安い商品まで奪われにくくて、急速にwotadaショッピング車を満たします...";
+"GlobalBuyer_LoadingView_message_4" = "世界で最も経営時間が長い服装ブランドはシャネル（1913～今まで）";
+"GlobalBuyer_LoadingView_message_5" = "kindle観読器のスクリーンは通常の液晶画面ではなく、電子インクパネルで、みるみる本のwotadaを守ってあげてください";
+"GlobalBuyer_LoadingView_message_6" = "世界的に有名な母親の赤ちゃんブランド：ベキス（日本）、レジャー（アメリカ）、新安楽（イギリス）、恵氏（アメリカ）、カーテ（日本）など";
+"GlobalBuyer_LoadingView_message_7" = "マスクの顔面認識解錠は、3万個以上の肉眼ではない光ポイントを投射することができます。wotada教えてください";
+"GlobalBuyer_LoadingView_message_8" = "ショッピング車を追加した後、30分以内に決済を完了してください。そうでなければ、商品の効果は自動的に「私の」「コレクション」に追加されます。";
+"GlobalBuyer_LoadingView_message_9" = "このページの推奨商品割引は、制限時間割引となり、最終的な決済価格はウェブサイトの決算価格を基準とする";
+"GlobalBuyer_LoadingView_message_10" = "商品を支払う前に、正しい受信者の住所と身分証の写真をアップロードすることを保証してください";
+
+//显示用
+"GlobalBuyer_Currency_area" = "地域を選ぶ";
+"GlobalBuyer_Currency_rmb" = "中国大陸";
+"GlobalBuyer_Currency_twd" = "台湾";
+"GlobalBuyer_Currency_usd" = "アメリカ";
+"GlobalBuyer_Currency_jpy" = "日本";
+"GlobalBuyer_Currency_franc" = "フランス";
+"GlobalBuyer_Currency_gbp" = "イギリス";
+"GlobalBuyer_Currency_aud" = "オーストラリア";
+"GlobalBuyer_Currency_mark" = "ドイツ";
+"GlobalBuyer_Currency_russia" = "ロシア";
+"GlobalBuyer_Currency_canada" = "カナダ";
+
+"GlobalBuyer_Currency_NT" = "台币";
+
+
+
+//检索用
+"GlobalBuyer_Currency_retrieval_rmb" = "中国";
+"GlobalBuyer_Currency_retrieval_twd" = "台湾";
+"GlobalBuyer_Currency_retrieval_usd" = "美国";
+"GlobalBuyer_Currency_retrieval_jpy" = "日本";
+"GlobalBuyer_Currency_retrieval_franc" = "法国";
+"GlobalBuyer_Currency_retrieval_gbp" = "英国";
+"GlobalBuyer_Currency_retrieval_aud" = "澳大利亚";
+"GlobalBuyer_Currency_retrieval_mark" = "德国";
+"GlobalBuyer_Currency_retrieval_russia" = "俄罗斯";
+"GlobalBuyer_Currency_retrieval_canada" = "加拿大";
+
+
+
+"GlobalBuyer_RegisterView_CooperationRegister" = "パートナー登録";
+"GlobalBuyer_RegisterView_Bindmailbox" = "メールボックス";
+"GlobalBuyer_RegisterView_Inputmailbox" = "メールを入力してください";
+"GlobalBuyer_RegisterView_InputInvitation" = "招待コードを入力してください";
+"GlobalBuyer_RegisterView_IAgree" = "私は同意します";
+"GlobalBuyer_RegisterView_Agreement" = "「ユーザーサービス協議」";
+"GlobalBuyer_RegisterView_Warningtips" = "同意して「ユーザーサービス協議」を読む";
+"GlobalBuyer_RegisterView_ScanInvitationCode" = "スキャンコード";
+"GlobalBuyer_UserInfo_CurrentCurrency" = "現在の貨幣種";
+"GlobalBuyer_UserInfo_ChangePassWord" = "パスワードを修正する";
+"GlobalBuyer_My_HintOutdated" = "お支払いは1日後に失効してショッピング車に移動します。";
+"GlobalBuyer_My_WaitPack" = "私の集荷倉";
+"GlobalBuyer_My_Sellerhasshipped" = "売家がすでに出荷した";
+"GlobalBuyer_My_ParcelAudit" = "小包の審査状態";
+"GlobalBuyer_My_WaitDeliverGoods" = "納品を確認する";
+"GlobalBuyer_My_ModifyAddress" = "受入地区を修正する";
+"GlobalBuyer_My_CompletedOrder" = "注文が完了しました";
+"GlobalBuyer_My_Shipped" = "アフター?センター";
+"GlobalBuyer_My_BindID" = "身分証明書を結納する";
+"GlobalBuyer_My_BindState" = "チャーター状態";
+"GlobalBuyer_My_BindState_YES" = "結束した";
+"GlobalBuyer_My_BindState_NO" = "未巻き";
+"GlobalBuyer_My_FillintheIDinfo" = "身分証の情報を記入する";
+"GlobalBuyer_My_BindState_FillId" = "身分証番号を記入してください";
+"GlobalBuyer_My_PaymentOrder" = "注文を払う";
+"GlobalBuyer_My_OrderNum" = "注文番号";
+"GlobalBuyer_My_Pack" = "梱包する";
+"GlobalBuyer_My_SelectPack" = "パッケージ商品をお選びください";
+"GlobalBuyer_My_SelectAdd" = "配送先を選んでください";
+"GlobalBuyer_My_NOBindId" = "このアドレスは身分証明書を連鎖していません";
+"GlobalBuyer_My_AuditStatus_YES" = "審査状態：審査通過する";
+"GlobalBuyer_My_AuditStatus_WAIT" = "審査状態：検閲を待つ";
+"GlobalBuyer_My_AuditStatus_NO" = "承認状態：未通過（再パッケージをクリックします）";
+"GlobalBuyer_My_AuditStatus_clickandrepackage" = "荷造りを取り消す";
+"GlobalBuyer_My_AuditStatus_clickandrepackage_confirm" = "包装のキャンセルを確認しますか？";
+"GlobalBuyer_My_PackagesNum" = "現在の状態";
+"GlobalBuyer_My_ParcelDetails" = "小包の詳細";
+"GlobalBuyer_My_Waitingforthegoodstobeshipped" = "商品を出荷する";
+"GlobalBuyer_My_Goodsshipped" = "出荷済みの商品";
+"GlobalBuyer_My_inputAdd" = "会員センターにお預かり所を記入して身分証明書をご記入ください";
+"GlobalBuyer_My_FreightDetails" = "尾金明細";
+"GlobalBuyer_My_LocalFreight" = "現地運賃";
+"GlobalBuyer_My_WarehousingFee" = "倉庫費";
+"GlobalBuyer_My_InternationalShipping" = "国際運賃";
+"GlobalBuyer_My_FirstWeight" = "最初の重量";
+"GlobalBuyer_My_OtherWeight" = "重量を重ねる";
+"GlobalBuyer_My_ParcelDuty" = "小包の関税";
+"GlobalBuyer_My_ParcelIncrement" = "小包の総増値";
+"GlobalBuyer_My_CommodityPriceDifference" = "商品の値下がり";
+"GlobalBuyer_My_Addfee" = "増値サービス料";
+"GlobalBuyer_My_PayFreight" = "運賃を払う";
+"GlobalBuyer_Home_Scan" = "掃き掃く";
+"GlobalBuyer_Home_Scan_refresh" = "チャーターに成功してホームページを更新してください";
+"GlobalBuyer_Home_message" = "ニュース";
+
+"GlobalBuyer_Home_Brand_Classification" = "カテゴリ";
+"GlobalBuyer_Home_Brand_Brand" = "ブランド";
+
+
+
+"GlobalBuyer_My_Wallet" = "財布";
+"GlobalBuyer_My_Wallet_Balance" = "残高";
+"GlobalBuyer_My_Wallet_Recharge" = "充填する";
+"GlobalBuyer_My_Wallet_Cash"="現金引き出す";
+"GlobalBuyer_My_Wallet_Refund" = "返金";
+"GlobalBuyer_My_Wallet_Allrecords" = "すべての記録";
+"GlobalBuyer_My_Wallet_Recordsofconsumption" = "支出記録";
+"GlobalBuyer_My_Wallet_Rechargerecord" = "充填記録";
+"GlobalBuyer_My_Wallet_Paymentorder" = "注文を払う";
+"GlobalBuyer_My_Wallet_Paymentoffreight" = "運賃を払う";
+"GlobalBuyer_My_Wallet_PayNumber" = "注文番号";
+"GlobalBuyer_My_Wallet_EnterTheAmount" = "チャージ金額を入力してください";
+"GlobalBuyer_My_Wallet_CurrentCurrency" = "現在の充填貨幣種：";
+"GlobalBuyer_My_Wallet_RefundApplication" = "払い戻しの申し込み";
+"GlobalBuyer_My_Wallet_EnterTheAmountOfTheRefund" = "返金申請の金額を入力してください";
+"GlobalBuyer_My_Wallet_TheAmountOfTheRefunds" = "今回の返金金額";
+"GlobalBuyer_My_Wallet_AuditStatus" = "審査状態：";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit" = "審査中";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit_Success" = "審査に成功する";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit_Fail" = "審査の失敗は、資料を書き直してください。";
+"GlobalBuyer_My_Wallet_AuditStatus_Success" = "返金完了";
+"GlobalBuyer_My_Wallet_AuditStatus_Fail" = "返金審査失敗";
+"GlobalBuyer_My_Wallet_REPWD" = "パスワードを取り戻す/修正する";
+"GlobalBuyer_My_Wallet_SendCode" = "メールでの検証コードをお届けいたします";
+
+"GlobalBuyer_My_areSureWeChat" = "チャーターを解除しますか？";
+"GlobalBuyer_My_areSureFaceBook" = "リンクを解除しますか？";
+"GlobalBuyer_My_bindWeChatLogin" = "パケット登録";
+"GlobalBuyer_My_unbindWeChatLogin" = "マイクロメッセージのログイン";
+"GlobalBuyer_My_bindFaceBookLogin" = "ゲルブック登録";
+"GlobalBuyer_My_unbindFaceBookLogin" = "解縛りfacebookログイン";
+"GlobalBuyer_My_binding" = "結束している";
+"GlobalBuyer_My_bindSuccess" = "結束の成功";
+"GlobalBuyer_My_bindFail" = "連鎖失敗";
+"GlobalBuyer_My_Hasbind" = "他のアカウントをセットした";
+"GlobalBuyer_My_unbinding" = "縛られている";
+"GlobalBuyer_My_unbindSuccess" = "縛られて成功する";
+"GlobalBuyer_My_unbindFail" = "縛りに失敗する";
+"GlobalBuyer_My_hasEmail" = "この電話はすでに存在します";
+"GlobalBuyer_My_reBindEmail" = "再開する";
+"GlobalBuyer_My_sePassWord" = "パスワードを取り戻す";
+"GlobalBuyer_My_inputTureEmail" = "正しい検証コード/メールボックスに記入してください";
+"GlobalBuyer_My_inviteCodeFail" = "招待コードに誤りを記入する";
+"GlobalBuyer_My_loginEmailBoxChangePassWord" = "メールにメールを送りましたので、ご査収をお願いいたします。";
+"GlobalBuyer_My_thereisnologisticsdata" = "この物流データを見合わせる";
+"GlobalBuyer_My_purchasinggoods_title" = "商品の仕入れ";
+"GlobalBuyer_My_purchasinggoods" = "仕入れ中の商品";
+"GlobalBuyer_My_Procuredgoods" = "商品を仕入れている";
+"GlobalBuyer_My_paymentofbalance" = "尾金を払う";
+"GlobalBuyer_My_Inshipment" = "出荷中";
+"GlobalBuyer_My_Share_text" = "wotada、世界はあなたの目の前にある！";
+"GlobalBuyer_My_Share" = "分かち合う";
+"GlobalBuyer_My_shareinthewechat" = "wotadaを分かち合う";
+"GlobalBuyer_My_QRCode" = "私の二次元コード";
+"GlobalBuyer_My_SaveQRCode" = "アルバムに保存";
+"GlobalBuyer_My_Profit" = "私の金貨";
+"GlobalBuyer_My_MyFriend" = "私の友達";
+"GlobalBuyer_My_Empty" = "まだ注文していないから、早く選んでください。";
+"GlobalBuyer_My_NoCoupons" = "まだ割引券はありませんよ";
+"GlobalBuyer_My_BrowseTheHomePage" = "トップページ";
+"GlobalBuyer_My_SelectionOfServices" = "増値サービスを選択してください";
+"GlobalBuyer_My_ConfirmationOfReceipt" = "納品を確認する";
+"GlobalBuyer_My_ApplicationForDistribution" = "直ちに申請する";
+
+
+"GlobalBuyer_My_Date" = "日付";
+"GlobalBuyer_My_ServiceLocation" = "サービス場所";
+"GlobalBuyer_My_Detailed" = "詳細情報";
+"GlobalBuyer_My_SetLanguage" = "言語の設定";
+
+
+"GlobalBuyer_MyQRCodeV_Title" = "私の招待コード";
+"GlobalBuyer_Profit_Title_lift" = "金貨数";
+"GlobalBuyer_Profit_Title_right" = "親友の数";
+"GlobalBuyer_Profit_History" = "歴史記録";
+"GlobalBuyer_Profit_NowMonth" = "今月を見る";
+"GlobalBuyer_Profit_SelectMonth" = "照会時間を選択してください";
+
+"GlobalBuyer_GoodsDetail_Notice" = "wotada小助手が駆けつけてきた";
+"GlobalBuyer_GoodsDetail_ThirtyMin" = "ショッピングに成功して、24時以内にお支払いください。";
+
+
+"GlobalBuyer_Amazon_Title" = "アマゾン";
+"GlobalBuyer_Amazon_Fixedprice" = "世界の名乗り";
+"GlobalBuyer_Amazon_Brand" = "ブランド庫";
+"GlobalBuyer_Amazon_OverseasShoppingInformation" = "ニュース";
+"GlobalBuyer_Amazon_NoBuy" = "在庫がない";
+"GlobalBuyer_Amazon_NoBrand" = "既存ブランド";
+"GlobalBuyer_Amazon_AlertSize" = "ヒント：商品のサイズ、色に合わせてご記入ください。";
+"GlobalBuyer_Amazon_From" = "から";
+"GlobalBuyer_Amazon_FixedpriceAll" = "総価格を手に入れる";
+"GlobalBuyer_Amazon_NewInformation" = "新鮮な情報がリアルタイムで更新されます";
+"GlobalBuyer_Amazon_NoGoods" = "売り切れ";
+"GlobalBuyer_Amazon_TotalPriceHint" = "手に入れた価格は、商品費用、現地運賃、国際運賃、消費税、関税などすべての費用が含まれています。お支払いは一回だけ必要です。";
+"GlobalBuyer_Amazon_NoPrompt" = "ヒントはない";
+"GlobalBuyer_Amazon_OK" = "分かりました";
+
+"GlobalBuyer_Logistics_Inspection" = "検品写真";
+"GlobalBuyer_Shopcart_SelectGoods" = "商品を選んでください";
+"GlobalBuyer_Shopcart_Submit" = "提出する";
+"GlobalBuyer_Shopcart_Consignee" = "受取人";
+"GlobalBuyer_Shopcart_SelectPurchaseMode" = "購入方法を選択してください";
+"GlobalBuyer_Shopcart_DirectMail" = "直髪を買う";
+"GlobalBuyer_Shopcart_Collect" = "倉庫を送る";
+"GlobalBuyer_Shopcart_SelectInspection" = "検品かどうかを選択してください：";
+"GlobalBuyer_Shopcart_Inspection" = "写真を撮る";
+"GlobalBuyer_Shopcart_NoInspection" = "不検品";
+"GlobalBuyer_Shopcart_DoNotUseCoupons" = "割引券は使わない";
+"GlobalBuyer_Shopcart_BuyAgain" = "再購入";
+"GlobalBuyer_Shopcart_Invoice" = "インボイス";
+"GlobalBuyer_Shopcart_NOInvoice" = "慈善寄付する";
+"GlobalBuyer_Shopcart_Invoice_Type" = "開票方式";
+"GlobalBuyer_Shopcart_Invoice_Type_R" = "個人";
+"GlobalBuyer_Shopcart_Invoice_Type_C" = "会社";
+"GlobalBuyer_Shopcart_Invoice_Information" = "情報を記入する";
+"GlobalBuyer_Shopcart_Invoice_Type_R_Name" = "名前を記入してください";
+"GlobalBuyer_Shopcart_Invoice_Type_R_Email" = "メールアドレス";
+"GlobalBuyer_Shopcart_Invoice_Type_C_ID" = "購入者の番号を記入してください";
+"GlobalBuyer_Shopcart_Invoice_Tips" = "領収書の情報を記入しなければなりません";
+"GlobalBuyer_Shopcart_Coupon_YES" = "優待券を贈る";
+"GlobalBuyer_Shopcart_Coupon_NO" = "割引券は使わない";
+
+"GlobalBuyer_TaobaoTransport_ProcessIntroduction" = "流れの紹介";
+"GlobalBuyer_TaobaoTransport_AuthorizedLogin" = "運送します";
+"GlobalBuyer_TaobaoTransport_ApplicationForTransshipment" = "転運を申請する";
+"GlobalBuyer_TaobaoTransport_TransshipmentList" = "転送リスト";
+"GlobalBuyer_TaobaoTransport_TransshipmentGoods" = "商品を移送する";
+"GlobalBuyer_TaobaoTransport_UnselectedCommodityCategory" = "-商品のカテゴリを選択していません-";
+"GlobalBuyer_TaobaoTransport_TransportDetails" = "詳細情報";
+"GlobalBuyer_TaobaoTransport_OrderSuccess" = "注文を成功させる";
+"GlobalBuyer_TaobaoTransport_AdoptAndSettlement" = "あなたの運送注文書はもう審査されました。あなたの運送商品を決済することができます。決済時には下記の受入住所を記入してください。";
+"GlobalBuyer_TaobaoTransport_Addressee" = "受取人";
+"GlobalBuyer_TaobaoTransport_DetailedAddress" = "詳細な住所";
+"GlobalBuyer_TaobaoTransport_TaobaoSettlement" = "宝の決算に行く";
+"GlobalBuyer_TaobaoTransport_InAppSettlement" = "勘定を締める";
+"GlobalBuyer_TaobaoTransport_ViewReceiptInformation" = "納品情報を調べる";
+"GlobalBuyer_TaobaoTransport_Copy" = "コピーする";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeFilled" = "宅配便の一覧";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeFilling" = "宅配便の記入";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeDelete"="注文を削除";
+"GlobalBuyer_TaobaoTransport_Ordinary" = "普通の商品";
+"GlobalBuyer_TaobaoTransport_Special" = "特殊な商品";
+"GlobalBuyer_TaobaoTransport_TipsOne" = "お客様の転運を選択した商品も商品もあり、特製品もあります。";
+"GlobalBuyer_TaobaoTransport_TipsTwo" = "特製料金の基準を調べる";
+
+"GlobalBuyer_TaobaoTransport_EntrustBtn" = "私は依頼します";
+"GlobalBuyer_TaobaoTransport_EntrustNum" = "購入数量";
+
+
+"GlobalBuyer_GlobalBuyer_Dis" = "世界の有名な駅の中には多くの世界各国の電商ショッピングサイトがあります。ここには有名な電気商のプラットフォームもありますし、小さくて美しいウェブサイトもあります。ここでは、前にあなたが知らなかった新しいショッピングプラットフォームを見つけることができます。新しい駅やショッピングを探しながら、お帰りになる機会もあります。何を待っていますか。急いで環球の旅に来てください。";
+"GlobalBuyer_GlobalBuyer_Dis_one" = "移送許可";
+"GlobalBuyer_GlobalBuyer_Dis_two" = "回転輸送";
+"GlobalBuyer_GlobalBuyer_Dis_three" = "商品の品性を選択して、配送アドレスを追加します。";
+"GlobalBuyer_GlobalBuyer_Dis_four" = "核の成立に成功する";
+"GlobalBuyer_GlobalBuyer_Dis_five" = "飛び回って宝の決算を回転して、貨物倉庫の住所を修正します";
+"GlobalBuyer_GlobalBuyer_Dis_six" = "宅配便の記入";
+
+"GlobalBuyer_Home_ScrollView_imageName1"="日文";
+"GlobalBuyer_Home_ScrollView_imageName2"="日文拷贝";
+"GlobalBuyer_Home_ScrollView_imageName3"="日文2";
+"GlobalBuyer_Home_ScrollView_labelName1"="1、好きな商品をリンクしてコピーします。";
+"GlobalBuyer_Home_ScrollView_labelName2"="2、上の検索ボックスにあなたのコピーした商品のリンクを貼り付けます。";
+"GlobalBuyer_Home_ScrollView_labelName3"="3、下の検索ボタンをクリックして商品を見つける。";
+
+"GlobalBuyer_Home_activity_sectionTitle"="往期の活動";
+
+"GlobalBuyer_CashView_Withdrawal_amount"="現金引き出し";
+"GlobalBuyer_CashView_All_Withdrawal"="全部現金にする";
+"GlobalBuyer_CashView_Withdrawal"="現金で出す";
+"GlobalBuyer_CashView_transactionDetails_navTitle"="取引の詳細";
+"GlobalBuyer_CashDetails_Withdrawal_success"="財布の引き出しが成功し";
+"GlobalBuyer_CashDetails_Withdrawal_in_processing"="ウォレット現金処理中";
+"GlobalBuyer_CashDetails_Withdrawal_Processing_progress"="処理の進度";
+"GlobalBuyer_CashDetails_Withdrawal_Payment_success"="支払いが成功しました";
+"GlobalBuyer_CashDetails_Withdrawal_BankProcessing"="銀行処理中";
+"GlobalBuyer_CashDetails_Withdrawal_Arrival_account"="入金済み";
+"GlobalBuyer_CashDetails_Withdrawal_To_cash"="現金で出す";
+"GlobalBuyer_CashDetails_Withdrawal_Creation_time"="作成時間";
+"GlobalBuyer_CashDetails_Withdrawal_Order_number"="注文番号";
+
+"GlobalBuyer_MyView_orderView_order"="私の注文";
+"GlobalBuyer_MyView_taobaoView_taobao"="淘宝の運送する";
+"GlobalBuyer_MyView_serviceView_service"="私のサービス";
+"GlobalBuyer_MyView_partnerView_partner"="パートナー";
+
+
+"GlobalBuyer_shopNotiView_msg" = "Wotadaはあなたのプライバシーを全力で保障します。「Wotadaグローバルバイヤープライバシーポリシー」を参照してください。";
+"GlobalBuyer_shopNotiView_btn" = "詳細";
+
+"GlobalBuyer_feedback" = "いけん";
+
+"GlobalBuyer_feed_title" = "意見  のフィードバック";
+"GlobalBuyer_feed_titleType" = "エコータイプ";
+"GlobalBuyer_feed_btn_1" = "ウェブサイトのロード速度が遅いです";
+"GlobalBuyer_feed_btn_2" = "翻訳ボタンが表示されません";
+"GlobalBuyer_feed_btn_3" = "ボタンをクリックしても反応がないです";
+"GlobalBuyer_feed_btn_4" = "翻訳が正確ではない";
+"GlobalBuyer_feed_btn_5" = "操作が複雑すぎます";
+"GlobalBuyer_feed_btn_6" = "新しい機能の提案";
+"GlobalBuyer_feed_placeHoder" = "300字を超えてはいけません";
+"GlobalBuyer_feed_tishi" = "ご反響ありがとうございます。ご意見は世界のバイヤーの向上にとても重要です。もしまだ世界のバイヤーの会員ではないなら、連絡先を残してください。後で私達のカスタマーサービスの担当者が連絡してくれます。ありがとうございます。";
+"GlobalBuyer_feed_submit" = "送信";
+"GlobalBuyer_feed_label1" = "内容は空です";
+"GlobalBuyer_feed_label2" = "送信成功";
+"GlobalBuyer_feed_label3" = "送信に失敗しました";
+
+"GlobalBuyer_home_more" = "もっと見る";
+"GlobalBuyer_home_bannerTitle" = "私達を理解して/初めてWotadaグローバルバイヤーを使います";
+"GlobalBuyer_home_bargainGoods" = "特売品";
+"GlobalBuyer_home_bargainGoods_content" = "ゴローバル良いサイトセールス";
+"GlobalBuyer_home_HotCommodity" = "モテる商品";
+"GlobalBuyer_home_HotCommodity_content" = "wotadaは海外優品を精選します";
+"GlobalBuyer_home_Preferential_activities" = "キャンペーン";
+"GlobalBuyer_home_Preferential_2330" = "ゴローバル良いサイト-----ゴローバル有名なプランド公式サイト2330";
+
+"GlobalBuyer_order_title" = "注文をキャンセルする理由を選択します";
+"GlobalBuyer_order_reason1" = "買いたくないです";
+"GlobalBuyer_order_reason2" = "品薄になる";
+"GlobalBuyer_order_reason3" = "情報に誤りがあります";
+"GlobalBuyer_order_reason4" = "その他";
+"GlobalBuyer_order_textField_placeholder" = "理由を入力";
+"GlobalBuyer_order_deleteOrder?" = "注文の削除を確認する?";
+
+"GlobalBuyer_taobaocart_tishi" = "まず商品を選んでください";
+"GlobalBuyer_tb_cart" = "淘寶ショッピング";
+"GlobalBuyer_jd_cart" = "京東ショッピング";
+"GlobalBuyer_yx_cart" = "嚴選ショッピング";
+"GlobalBuyer_zdy_cart" = "自選する運送する";
+"GlobalBuyer_1688_cart" = "1688 運送する";
+
+"GlobalBuyer_goodsInfo" = "商品情報を記入する";
+"GlobalBuyer_zdy_goodsImg" = "商品写真";
+"GlobalBuyer_zdy_goodsName" = "商品名";
+"GlobalBuyer_zdy_goodsLink" = "アドレス";
+"GlobalBuyer_zdy_goodsParam" = "商品規格";
+"GlobalBuyer_zdy_goodsPrice" = "単価";
+"GlobalBuyer_zdy_goodsCurrecy" = "商品通貨";
+"GlobalBuyer_zdy_goodsNum" = "数";
+
+"GlobalBuyer_zdy_inputName" = "商品名を入力してください";
+"GlobalBuyer_zdy_inputLink" = "アドレスを入力してください。";
+"GlobalBuyer_zdy_inputParam" = "商品仕様を入力してください";
+"GlobalBuyer_zdy_inputPrice" = "商品単価を入力してください";
+"GlobalBuyer_zdy_inputImg" = "商品の画像をアップロードしてください";
+"GlobalBuyer_zdy_seleteCurrecy" = "商品通貨を選んでください";
+
+"GlobalBuyer_zdy_addGoods" = "商品を加える";
+"link_null" = "アドレスは空ではない";
+"goodsName_null" = "商品名は空ではいけません";
+"goodsParam_null" = "商品の規格は空であってはならない";
+"goodsPrice_null" = "単価は空ではない";
+"noupload_img" = "商品の画像はアップロードされていません";
+"nocurrecy_img" = "商品は選択されていない";
+"uploaded_yy" = "アップロードした";
+"goods_list_new" = "商品リスト";
+"listNumber_new" = "番号";
+"new_param" = "規格";
+"new_delete" = "削除";
+"new_update" = "修正";
+"new_confirm" = "确认";
+
+"new_CNY"= "人民元";
+"new_TWD"= "台湾ドル";
+"new_USD"= "ドル";
+"new_JPY"= "円";
+"new_EUR"= "ユーロ";
+"new_GBP"= "ポンド";
+"new_AUD"= "AUD";
+"new_KRW"= "ウォン";
+"new_HKD"= "香港ドル";
+
+"new_sum" = "合わせて";
+"new_updateImg"= "画像をアップロードする";
+"new_paizhao"="撮影";
+"new_xiangce"="アルバム選択";
+"new_lianjie"="リンクを張る";
+
+"new_seleteSHDQ"="受取先を選択してください";

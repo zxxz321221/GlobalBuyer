@@ -1,0 +1,713 @@
+/* 
+  Localizable.strings
+  GlobalBuyer
+
+  Created by 薛铭 on 2017/6/19.
+  Copyright © 2017年 薛铭. All rights reserved.
+*/
+"GlobalBuyer_OnlineService" = "Online Service";
+
+"GlobalBuyer_Nativelanguage" = "en";
+
+"GlobalBuyer_Home_title" = "Global Buyer";
+"GlobalBuyer_Homepage" = "Home";
+"GlobalBuyer_Classification" = "Website";
+"GlobalBuyer_ShoppingCart" = "Cart";
+"GlobalBuyer_My" = "My";
+"GlobalBuyer_Help" = "Help";
+"GlobalBuyer_Helpcenter" = "Help center";
+
+"GlobalBuyer_Network_StatusNotReachable" = "Network currently unavailable";
+"GlobalBuyer_Network_StatusReachableViaWWAN" = "Mobile network available";
+"GlobalBuyer_Network_StatusReachableViaWiFi" = "Wifi availabke";
+
+"GlobalBuyer_Prompt" = "Prompt";
+"GlobalBuyer_Ok" = "Ok";
+"GlobalBuyer_Cancel" = "Cancel";
+"GlobalBuyer_Done" = "Done";
+
+"GlobalBuyer_Selectcurrency" = "Please select your area";
+"GlobalBuyer_Close" = "Close";
+"GlobalBuyer_Loading" = "Loading...";
+
+"GlobalBuyer_InputOriginal" = "English or local language, as a key word, is more likely to search for goods.";
+
+"GlobalBuyer_Searching" = "Search";
+
+"GlobalBuyer_Tabview_down_MJRefreshStateIdle" = "Refresh drop down";
+"GlobalBuyer_Tabview_down_MJRefreshStatePulling" = "Refresh loosen";
+"GlobalBuyer_Tabview_down_MJRefreshStateRefreshing" = "Network refreshing";
+"GlobalBuyer_Tabview_up_MJRefreshStateIdle" = "Click or drop to load more";
+"GlobalBuyer_Tabview_up_MJRefreshStatePulling" = "Trying to load...";
+"GlobalBuyer_Tabview_up_MJRefreshStateRefreshing" = "No more availble";
+
+"GlobalBuyer_Home_maskView_placeHolder"="Please enter the merchandise website";
+"GlobalBuyer_Home_maskView_prompt"="The method of use is shown in the figure.";
+"GlobalBuyer_Home_HeaderView_Theme" = "theme";
+"GlobalBuyer_Home_HeaderView_TB_Transport" = "Transport";
+"GlobalBuyer_Home_HeaderView_LookingGoods" = "LookingGoods";
+"GlobalBuyer_Home_HeaderView_Classification" = "Classification";
+"GlobalBuyer_Home_HeaderView_TaobaoCollection" = "TransshipService";
+"GlobalBuyer_Home_HeaderView_Comprehensive" = "Comprehensive";
+"GlobalBuyer_Home_HeaderView_Popularity" = "Popularity";
+"GlobalBuyer_Home_HeaderView_Originalprice" = "Discout";
+"GlobalBuyer_Home_HeaderView_Discountprice" = "Latest";
+"GlobalBuyer_Home_Nowprice" = "Price";
+"GlobalBuyer_Home_price" = "Original price";
+"GlobalBuyer_Home_Discountprice" = "Discount price";
+"GlobalBuyer_Home_Allprice" = "Total";
+"GlobalBuyer_Home_Discount" = "Discount";
+"GlobalBuyer_Home_Notice" = "Notice";
+"GlobalBuyer_Home_PurchasingLink" = "Please paste the link, easy purchase!";
+"GlobalBuyer_Home_GlobalClassification" = "World famous station";
+"GlobalBuyer_Home_SearchEmpty_one" = "Sorry, I can't find it with you.’";
+"GlobalBuyer_Home_SearchEmpty_two" = "‘Linked commodities";
+"GlobalBuyer_Home_Search_deleteHis" = "Clear up historical records";
+
+"GlobalBuyer_Shopcart_SubmitPurchasing" = "Submit order";
+"GlobalBuyer_Shopcart_Pay" = "Pay order";
+"GlobalBuyer_Shopcart_Purchasing" = "Global buyer";
+"GlobalBuyer_Shopcart_SubmitTransport" = "Submit order";
+"GlobalBuyer_Shopcart_ConfirmReceipt" = "Confirm order";
+"GlobalBuyer_Shopcart_Shoppingguide" = "Shopping guide";
+"GlobalBuyer_Shopcart_Shoppingguide_1" = "1. The amount you are currently paying is only the commodity expense. After successful purchase of the goods, please pay for the international expenses (customs, freight, etc.) in my order.";
+"GlobalBuyer_Shopcart_Shoppingguide_2" = "2. After adding the shopping cart, please complete the transaction within 30 minutes. Otherwise, the product will automatically invalid and be added to 'my collection', and you need to buy again. Please feel free to understand.";
+"GlobalBuyer_Shopcart_Shoppingguide_3" = "3. The discount price is limited when the goods are displayed at a discount, and the final price is based on the website.";
+"GlobalBuyer_Shopcart_Shoppingguide_4" = "4. When purchasing the goods, we will charge 10 yuan as service charge.";
+"GlobalBuyer_Shopcart_login" = "Log in right now";
+"GlobalBuyer_Shopcart_Nologin" = "You are not logged in yet";
+"GlobalBuyer_Shopcart_NoGoodsNotice" = "Shopping cart is empty,please go pick goods up.";
+"GlobalBuyer_Shopcart_Allprice" = "Total price";
+"GlobalBuyer_Shopcart_Allselect" = "Check all";
+"GlobalBuyer_Shopcart_Settlement" = "Settle account";
+"GlobalBuyer_Shopcart_Remainingtime" = "Remaining time";
+"GlobalBuyer_Shopcart_Notice" = "The goods have failed and moved to the left to re operate";
+"GlobalBuyer_Shopcart_SettlementAlert" = "Part of the products settlement process will take the integer value, The final settlement amount is subject to the payment interface.";
+"GlobalBuyer_Shopcart_AllNotice" = "Not include custom duty and international shipping fee";
+"GlobalBuyer_Shopcart_ExpiredHint" = "The shopping cart goods after 24 hours due to price changes will be moved to my collection.";
+"GlobalBuyer_NoPayView_ExpiredHint"= "The pending order will expire in 24 hours and be moved to the shopping cart. Please pay in time.";
+
+"GlobalBuyer_My_Login" = "Click to log in";
+"GlobalBuyer_My_Tabview_Order" = "My";
+"GlobalBuyer_My_DistributionActivities" = "Join the inviter alliance, with a maximum of 10% rebates";
+"GlobalBuyer_My_Tabview_Coupon" = "Coupon";
+"GlobalBuyer_My_Tabview_Coupon_Date" = "Period of validity to";
+"GlobalBuyer_My_Tabview_Coupon_Type_1" = "A service fee of \n low value securities";
+"GlobalBuyer_My_Tabview_InputCouponCode" = "Please enter the exchange code";
+"GlobalBuyer_My_Tabview_InputCouponCode_Success" = "Exchange success";
+"GlobalBuyer_My_Tabview_Exchange" = "Exchange";
+"GlobalBuyer_My_Tabview_Collection" = "Collection";
+"GlobalBuyer_My_Tabview_HeaderTitle" = "Order";
+"GlobalBuyer_My_Tabview_Cell_All" = "All orders";
+"GlobalBuyer_My_Tabview_Cell_Wait" = "Pending payment";
+"GlobalBuyer_My_Tabview_Cell_SubmitAdd" = "Submit address";
+"GlobalBuyer_My_Tabview_Cell_Purchase" = "In purchasing";
+"GlobalBuyer_My_Tabview_Cell_Paytransport" = "Pay shipping fee";
+"GlobalBuyer_My_Tabview_Cell_Overseas" = "Overseas shippment";
+"GlobalBuyer_My_Tabview_Cell_Add" = "Delivery address";
+"GlobalBuyer_My_NavRight" = "Personal information";
+"GlobalBuyer_My_Addmanagement" = "Address management";
+"GlobalBuyer_My_About" = "About";
+"GlobalBuyer_My_About_cell" = "About Global Buyers";
+"GlobalBuyer_My_About_Version" = "Version";
+"GlobalBuyer_My_About_Collection" = "Collection";
+
+
+"GlobalBuyer_Order_title" = "Logistics information";
+"GlobalBuyer_Order_Weight" = "Parcel weight";
+"GlobalBuyer_Order_all" = "All";
+"GlobalBuyer_Order_Pay_Message" = "Payment notification";
+"GlobalBuyer_Order_Pay_Message_commodity" = "You have paid successfully";
+"GlobalBuyer_Order_Pay_Message_fail" = "Failure to pay";
+"GlobalBuyer_Order_Pay_Message_freight" = "You have paid shipping fee successfully";
+"GlobalBuyer_Order_Pay_Message_Incalculation" = "The shipping fee is under calculation, please wait a moment";
+"GlobalBuyer_Order_Pay_Message_AddAdd" = "Adding address...";
+"GlobalBuyer_Order_Pay_Message_Queryfailed" = "Inquiry failed, please wait a moment";
+"GlobalBuyer_Order_Pay_status_nopay" = "Order status: unpaid goods";
+"GlobalBuyer_Order_Pay_status_nopay_btn" = "Paying goods";
+"GlobalBuyer_Order_Pay_status_Add" = "Order status: paying successfully, click to add delivery address";
+"GlobalBuyer_Order_Pay_status_Add_btn" = "Add address";
+"GlobalBuyer_Order_Pay_status_freighting" = "Order status:paying finished, please wait for calculating shipping fee";
+"GlobalBuyer_Order_Pay_status_freight_btn" = "Pay shipping fee";
+"GlobalBuyer_Order_Pay_status_freight" = "Order status: please paying shipping fee";
+"GlobalBuyer_Order_Pay_status_Inpurchasing" = "Order status: in purchasing";
+"GlobalBuyer_Order_Pay_status_done" = "Order status: order finished, please click to view logistics";
+"GlobalBuyer_Order_Pay_status_done_btn" = "View logistics";
+"GlobalBuyer_Order_Pay_TheAmount" = "The amount of the payment";
+"GlobalBuyer_Order_Pay_SetPWD" = "Please set the password";
+"GlobalBuyer_Order_Pay_NOSetPWD" = "You have not set the password to pay the password";
+"GlobalBuyer_Order_Pay_AgainSetPWD" = "Reconfirm the password";
+"GlobalBuyer_Order_Pay_IsBan" = "Your wallet has been frozen, please contact the customer service.";
+"GlobalBuyer_Order_Pay_NotEnough" = "Insufficient balance to fill in the membership Center";
+
+"GlobalBuyer_UserInfo_change" = "Modifiy";
+"GlobalBuyer_UserInfo_exit" = "Log out";
+"GlobalBuyer_UserInfo_Alert_title" = "Friendly reminder";
+"GlobalBuyer_UserInfo_Alert_message" = "Are you really want to log out？";
+"GlobalBuyer_UserInfo_name" = "Name";
+"GlobalBuyer_UserInfo_nickname" = "User name";
+"GlobalBuyer_UserInfo_ID" = "ID card number";
+"GlobalBuyer_UserInfo_ID_F" = "Upload the ID card front:";
+"GlobalBuyer_UserInfo_ID_B" = "Uploading the back of the ID card:";
+"GlobalBuyer_UserInfo_Gender" = "Gender";
+"GlobalBuyer_UserInfo_phone" = "Telphone number";
+"GlobalBuyer_UserInfo_nan" = "Male";
+"GlobalBuyer_UserInfo_nv" = "Female";
+"GlobalBuyer_UserInfo_Birthday" = "Birthday";
+"GlobalBuyer_UserInfo_changeInfo" = "Modify personal information";
+"GlobalBuyer_UserInfo_choesnanornv" = "Select gender";
+"GlobalBuyer_UserInfo_changename" = "Modify name";
+"GlobalBuyer_UserInfo_changenickname" = "Modify user name";
+"GlobalBuyer_UserInfo_changeID" = "Modify ID card number";
+"GlobalBuyer_UserInfo_changephone" = "Modify telephone number";
+"GlobalBuyer_UserInfo_changePW" = "Modify password";
+"GlobalBuyer_UserInfo_PWGuide" = "Please enter a password for 6-20 numbers and letters";
+"GlobalBuyer_UserInfo_AgnPWGuide" = "Please re-enter a password for 6-20 numbers and letters";
+"GlobalBuyer_UserInfo_PWError" = "Please enter a 6-20 numbers and letters combined password";
+"GlobalBuyer_UserInfo_PWdif" = "The two password is wrong";
+"GlobalBuyer_UserInfo_BankId" = "Bank card number";
+"GlobalBuyer_UserInfo_DataError" = "DataError";
+
+
+"GlobalBuyer_Address_title" = "Add delivery address";
+"GlobalBuyer_Address_NoAddmessage" = "You have not selected your address yet";
+"GlobalBuyer_Address_AddNewAdd" = "Add new address";
+"GlobalBuyer_Address_deleteAdd" = "Deleting...";
+"GlobalBuyer_Address_getAdd" = "Getting information...";
+"GlobalBuyer_Address_AddAdmin" = "Manage address";
+"GlobalBuyer_Address_EditAdd" = "Add address";
+"GlobalBuyer_Address_DefaultAdd" = "Set as default address";
+"GlobalBuyer_Address_MessageIncomplete" = "Incomplete information";
+"GlobalBuyer_Address_Saveing" = "Saving...";
+"GlobalBuyer_Address_Adddetails" = "Address details";
+"GlobalBuyer_Address_Save" = "Save";
+"GlobalBuyer_Address_ShopDetail_Message_translate" = "Please try to translate later";
+"GlobalBuyer_Address_ShopDetail_Message_noselect" = "You have not selected the type of item. Please choose the type of the item";
+"GlobalBuyer_Address_AddShopcart" = "Help to buy";
+"GlobalBuyer_Address_AddTransport" = "I want to transfer";
+"GlobalBuyer_Address_AddShopcart_Add" = "Help to buy";
+"GlobalBuyer_Address_Adding" = "Adding...";
+"GlobalBuyer_Address_DefaultAdds" = "Default address";
+"GlobalBuyer_Address_Edit" = "Edit";
+"GlobalBuyer_Address_dele" = "Delete";
+
+
+"GlobalBuyer_Map_Seekfailed" = "Seek failed";
+"GlobalBuyer_Map_Seekfailed_Message" = "Please open the position function in the phone settings, open steps: Settings > Privacy > location > global buyers under the positioning service";
+"GlobalBuyer_Map_SearchPlace" = "Searching location";
+"GlobalBuyer_Map_beijing" = "Beijing";
+"GlobalBuyer_Map_shanghai" = "Shanghai";
+"GlobalBuyer_Map_guangzhou" = "Guangzhou";
+"GlobalBuyer_Map_shenzhen" = "Shenzhen";
+"GlobalBuyer_Map_xiamen" = "Xiamen";
+"GlobalBuyer_Map_dalian" = "Dalian";
+"GlobalBuyer_Map_aomen" = "Macau";
+"GlobalBuyer_Map_xianggang" = "HongKong";
+"GlobalBuyer_Map_taiwan" = "Taiwan";
+"GlobalBuyer_Map_PlaceRst" = "Site search results";
+
+
+"GlobalBuyer_LoginView_login" = "Log in";
+"GlobalBuyer_LoginView_submit" = "Confirm submission";
+"GlobalBuyer_LoginView_improve" = "Improve account information";
+"GlobalBuyer_LoginView_thirdlogin" = "Third party account log in";
+"GlobalBuyer_LoginView_forgotPW" = "Forget password";
+"GlobalBuyer_LoginView_register" = "Register now";
+"GlobalBuyer_LoginView_inputEmail" = "Please enter the email address";
+"GlobalBuyer_LoginView_inputPW" = "Please enter the password";
+"GlobalBuyer_LoginView_EmailError" = "Invalid email";
+"GlobalBuyer_LoginView_AccountError" = "Invalid account";
+"GlobalBuyer_LoginView_PWError" = "Please enter the password";
+"GlobalBuyer_LoginView_logining" = "Logging in...";
+"GlobalBuyer_LoginView_Prompt" = "Kindly reminder";
+"GlobalBuyer_LoginView_PromptMessage" = "Please install the WeChat first";
+
+"GlobalBuyer_LoginView_BindPhoneNumber" = "Please bind the phone";
+"GlobalBuyer_LoginView_VerificationCode" = "VerificationCode";
+"GlobalBuyer_LoginView_GetVerificationCode" = "Get the verifying code";
+"GlobalBuyer_LoginView_InputPhoneNumber" = "Please enter the phone";
+"GlobalBuyer_LoginView_InputVerificationCode" = "Please enter the verification code";
+"GlobalBuyer_LoginView_RepeatedAcquisition" = "No repetition of access within 60 seconds";
+
+
+"GlobalBuyer_RegisterView_UserRegister" = "User register";
+"GlobalBuyer_RegisterView_Register" = "Register";
+"GlobalBuyer_RegisterView_Registering" = "Registering, please wait a moment...";
+
+
+"GlobalBuyer_PayView_title" = "Paying";
+"GlobalBuyer_PayView_paytype_1" = "Credit card paid in one sum";
+"GlobalBuyer_PayView_paytype_2" = "Super code payment";
+"GlobalBuyer_PayView_paytype_3" = "Alipay";
+"GlobalBuyer_PayView_paytype_4" = "Union pay";
+"GlobalBuyer_PayView_choespaytype" = "Please choose the payment methods";
+"GlobalBuyer_PayView_otherpaytype" = "Other payment methods";
+"GlobalBuyer_PayView_taiwan" = "Taiwan Payment";
+"GlobalBuyer_PayView_dalu" = "China Payment";
+"GlobalBuyer_PayView_Audit" = "Submit manual audit, please be patient and wait for customer service to contact you.";
+
+
+"GlobalBuyer_Entrust_Artificial" = "Artificial examination";
+"GlobalBuyer_Entrust_ArtificialLiaison" = "We will contact you after the trial";
+"GlobalBuyer_Entrust_expenseListLb" = "Trail Calculation of Commission Sheet";
+"GlobalBuyer_Entrust_firstPayLb" = "First pay";
+"GlobalBuyer_Entrust_commodityCostLb" = "Commodity cost";
+"GlobalBuyer_Entrust_purchasingLb" = "Purchase fee";
+"GlobalBuyer_Entrust_freightLb" = "1 kg freight prepaid";
+"GlobalBuyer_Entrust_serviceChargeLb" = "Pay service fee";
+"GlobalBuyer_Entrust_promptLb" = "As the exchange rate changes, the price will fluctuate.";
+"GlobalBuyer_Entrust_totalLb" = "Total payment";
+"GlobalBuyer_Entrust_secondPayLb" = "Second stage cost";
+"GlobalBuyer_Entrust_secondPayRightLb" = "Procurement of goods after the payment";
+"GlobalBuyer_Entrust_secondPayDetailsLb" = "Tax";
+"GlobalBuyer_Entrust_secondPayDetailsRightLb" = "Confirmation after purchasing";
+"GlobalBuyer_Entrust_commodityCostLb_2" = "Shipping fee";
+"GlobalBuyer_Entrust_purchasingLb_2" = "Local shipping fee";
+"GlobalBuyer_Entrust_freightLb_2" = "Customs duty";
+"GlobalBuyer_Entrust_serviceChargeLb_2" = "Pay commission fee";
+"GlobalBuyer_Entrust_serviceChargeRightLb" = "At the expense of the specific payment";
+"GlobalBuyer_Entrust_noticeLb" = "This item is the third party platform overseas goods, global buyers only provide purchasing services, as much as possible to help you coordinate the process of purchasing problems, do not assume any responsibility.";
+"GlobalBuyer_Entrust_btn" = "AddShoppingCart";
+"GlobalBuyer_Entrust_close" = "Close";
+"GlobalBuyer_Entrust_Commoditydetails" = "Commodity details";
+"GlobalBuyer_Entrust_Webdetails" = "Website details";
+"GlobalBuyer_Entrust_About" = "About";
+"GlobalBuyer_Entrust_globalbear" = "GlobalBuyer bear";
+
+"GlobalBuyer_Entrust_counting" = "Counting...";
+"GlobalBuyer_Entrust_Estimatedweight" = "EstimatedWeight(KG)";
+"GlobalBuyer_Entrust_current" = "Current";
+"GlobalBuyer_Entrust_Category_1" = "General goods";
+"GlobalBuyer_Entrust_Category_2" = "Specialty goods";
+"GlobalBuyer_Entrust_Category_3" = "Liquid ";
+"GlobalBuyer_Entrust_Category_4" = "Furniture";
+"GlobalBuyer_Entrust_Category_explain_1" = "ordinary goods, except food, cosmetics, imitation category, batteries, liquid and other special goods";
+"GlobalBuyer_Entrust_Category_explain_2" = "food, cosmetics (except liquid ), batteries and other special goods";
+"GlobalBuyer_Entrust_Category_explain_3" = "liquid products";
+"GlobalBuyer_Entrust_Category_explain_4" = "furniture products (except log and iron furniture)";
+
+
+"GlobalBuyer_Entrust_Category_loadingPlaceRightLb" = "No Warehouse";
+"GlobalBuyer_Entrust_Category_commodityCostRightLb" = "The route is not open";
+"GlobalBuyer_Entrust_Category_shippingAreaLb" = "Shipping Areas";
+"GlobalBuyer_Entrust_Category_loadingPlaceLb" = "Loading Place";
+"GlobalBuyer_Entrust_Category_receivingAreaLb" = " Receiving Areas";
+"GlobalBuyer_Entrust_Category_categoryLb" = "Please select the category:";
+"GlobalBuyer_Entrust_Category_categoryNoticeLb" = "(If you choose the wrong category, the global buyers has the right to adjust)";
+"GlobalBuyer_Entrust_Category_selectArea" = "Please Select the Loading Area";
+"GlobalBuyer_Entrust_Category_ChinaFreight" = "See Details";
+"GlobalBuyer_Entrust_Category_TWFreight" = "See Details";
+"GlobalBuyer_Entrust_Category_Checkouttoview" = "Checkout to view";
+
+
+"GlobalBuyer_CollectionViewController_Source" = "Source";
+"GlobalBuyer_CollectionViewController_Remark" = "Remark";
+"GlobalBuyer_CollectionViewController_Calculation" = "Calculation";
+"GlobalBuyer_SearchViewController_placeholder" = "Direct search of the world's major e-commerce platform products, direct purchase";
+"GlobalBuyer_SearchViewController_alertMessage" = "This type of commodity is not available";
+"GlobalBuyer_SearchViewController_section_1" = "Including the brand websites";
+"GlobalBuyer_SearchViewController_section_2" = "Including the category websites";
+"GlobalBuyer_SearchViewController_Alert_first" = "We have turned your key words into English";
+"GlobalBuyer_SearchViewController_Alert_left" = "Original";
+"GlobalBuyer_SearchViewController_Alert_right" = "Translation";
+
+
+"GlobalBuyer_HelpViewController_OnlineService" = "Online";
+"GlobalBuyer_HelpViewController_CustomerServiceHotline" = "Hotline";
+"GlobalBuyer_HelpViewController_Tips" = "Tips";
+"GlobalBuyer_HelpViewController_QAA" = "Q&A";
+"GlobalBuyer_HelpViewController_Newbiezone" = "NewbieZone";
+"GlobalBuyer_HelpViewController_servicemode" = "ServiceMode";
+"GlobalBuyer_HelpViewController_Rightsprotection" = "RightsProtection";
+
+
+"GlobalBuyer_Special_SingleItemRecommendation" = "Single Product recommendation";
+"GlobalBuyer_Special_Selling" = "Choose your good selling products";
+"GlobalBuyer_Special_More" = "More";
+"GlobalBuyer_Special_HotRecommendation" = "Hot Recommendation";
+"GlobalBuyer_Special_Discount" = "Discount and Surprises";
+"GlobalBuyer_Special_Web" = "All Sites";
+
+"GlobalBuyer_LoadingView_message_1" = "Loading...";
+"GlobalBuyer_LoadingView_message_2" = "Loading...";
+"GlobalBuyer_LoadingView_message_3" = "Loading...";
+"GlobalBuyer_LoadingView_message_4" = "Loading...";
+"GlobalBuyer_LoadingView_message_5" = "Loading...";
+"GlobalBuyer_LoadingView_message_6" = "Loading...";
+"GlobalBuyer_LoadingView_message_7" = "Loading...";
+"GlobalBuyer_LoadingView_message_8" = "Loading...";
+"GlobalBuyer_LoadingView_message_9" = "Loading...";
+"GlobalBuyer_LoadingView_message_10" = "Loading...";
+
+
+//显示用
+"GlobalBuyer_Currency_area"= "Selected areas";
+"GlobalBuyer_Currency_rmb" = "CN";
+"GlobalBuyer_Currency_twd" = "TWN";
+"GlobalBuyer_Currency_usd" = "USA";
+"GlobalBuyer_Currency_jpy" = "JPN";
+"GlobalBuyer_Currency_franc" = "FRA";
+"GlobalBuyer_Currency_gbp" = "UK";
+"GlobalBuyer_Currency_aud" = "AUS";
+"GlobalBuyer_Currency_mark" = "GER";
+"GlobalBuyer_Currency_russia" = "RUS";
+"GlobalBuyer_Currency_canada" = "CAN";
+
+
+"GlobalBuyer_Currency_NT" = "NT$";
+
+
+
+//检索用
+"GlobalBuyer_Currency_retrieval_rmb" = "中国";
+"GlobalBuyer_Currency_retrieval_twd" = "台湾";
+"GlobalBuyer_Currency_retrieval_usd" = "美国";
+"GlobalBuyer_Currency_retrieval_jpy" = "日本";
+"GlobalBuyer_Currency_retrieval_franc" = "法国";
+"GlobalBuyer_Currency_retrieval_gbp" = "英国";
+"GlobalBuyer_Currency_retrieval_aud" = "澳大利亚";
+"GlobalBuyer_Currency_retrieval_mark" = "德国";
+"GlobalBuyer_Currency_retrieval_russia" = "俄罗斯";
+"GlobalBuyer_Currency_retrieval_canada" = "加拿大";
+
+
+
+"GlobalBuyer_RegisterView_CooperationRegister" = "Partner Registration";
+"GlobalBuyer_RegisterView_Bindmailbox" = "Binding Mailbox";
+"GlobalBuyer_RegisterView_Inputmailbox" = "Please enter the mail address";
+"GlobalBuyer_RegisterView_InputInvitation" = "Please enter the invitation code";
+"GlobalBuyer_RegisterView_IAgree" = "I Agree";
+"GlobalBuyer_RegisterView_Agreement" = "《User Service Agreement》";
+"GlobalBuyer_RegisterView_Warningtips" = "Agree and read the user service agreement";
+"GlobalBuyer_RegisterView_ScanInvitationCode" = "Scan";
+"GlobalBuyer_UserInfo_CurrentCurrency" = "Current Currency";
+"GlobalBuyer_UserInfo_ChangePassWord" = "modify password";
+"GlobalBuyer_My_HintOutdated" = "The order to be paid will be invalid after the day and moved to the shopping cart. Please pay in time.";
+"GlobalBuyer_My_WaitPack" = "Packaged goods";
+"GlobalBuyer_My_Sellerhasshipped" = "Seller has shipped";
+"GlobalBuyer_My_ParcelAudit" = "State audit package";
+"GlobalBuyer_My_WaitDeliverGoods" = "Goods to be confirmed";
+"GlobalBuyer_My_CompletedOrder" = "Completed order";
+"GlobalBuyer_My_Shipped" = "Customer service";
+"GlobalBuyer_My_BindID" = "Binding ID";
+"GlobalBuyer_My_BindState" = "State of Binding";
+"GlobalBuyer_My_BindState_YES" = "Bound";
+"GlobalBuyer_My_BindState_NO" = "unbound";
+"GlobalBuyer_My_FillintheIDinfo" = "Fill in the ID Card information";
+"GlobalBuyer_My_BindState_FillId" = "fill in the ID Card Number";
+"GlobalBuyer_My_PaymentOrder" = "Payment order";
+"GlobalBuyer_My_OrderNum" = "Order Number";
+"GlobalBuyer_My_Pack" = "pack";
+"GlobalBuyer_My_SelectPack" = "Please select the packaged goods";
+"GlobalBuyer_My_SelectAdd" = "Please select the delivery address";
+"GlobalBuyer_My_NOBindId" = "The address is not binding ID Card";
+"GlobalBuyer_My_AuditStatus_YES" = "State audit: pass (click on the payment of freight)";
+"GlobalBuyer_My_AuditStatus_WAIT" = "State audit: wait for audit";
+"GlobalBuyer_My_AuditStatus_NO" = "Audit status: not pass (click and repackage)";
+"GlobalBuyer_My_AuditStatus_clickandrepackage" = "Cancel the package";
+"GlobalBuyer_My_AuditStatus_clickandrepackage_confirm" = "Are you sure you want to cancel packing?";
+"GlobalBuyer_My_PackagesNum" = "Package Number";
+"GlobalBuyer_My_ParcelDetails" = "Package Details";
+"GlobalBuyer_My_Waitingforthegoodstobeshipped" = "Goods to be shipped";
+"GlobalBuyer_My_Goodsshipped" = "Goods shipped";
+"GlobalBuyer_My_inputAdd" = "Please fill in the delivery address at the member center";
+"GlobalBuyer_My_FreightDetails" = "FreightDetails";
+"GlobalBuyer_My_LocalFreight" = "LocalFreight";
+"GlobalBuyer_My_WarehousingFee" = "WarehousingFee";
+"GlobalBuyer_My_InternationalShipping" = "InternationalShipping";
+"GlobalBuyer_My_FirstWeight" = "First Weight";
+"GlobalBuyer_My_OtherWeight" = "Other Weight";
+"GlobalBuyer_My_ParcelDuty" = "ParcelDuty";
+"GlobalBuyer_My_ParcelIncrement" = "ParcelIncrement";
+"GlobalBuyer_My_CommodityPriceDifference" = "CommodityPriceDifference";
+"GlobalBuyer_My_Addfee" = "Value-added service fee";
+"GlobalBuyer_My_PayFreight" = "Payment of freight";
+"GlobalBuyer_Home_Scan" = "Scan";
+"GlobalBuyer_Home_Scan_refresh" = "Bind successfully. Please refresh your web page";
+"GlobalBuyer_Home_message" = "Message";
+
+"GlobalBuyer_Home_Brand_Classification" = "Classification";
+"GlobalBuyer_Home_Brand_Brand" = "Brand";
+
+
+
+"GlobalBuyer_My_Wallet" = "Wallet";
+"GlobalBuyer_My_Wallet_Balance" = "Balance";
+"GlobalBuyer_My_Wallet_Recharge" = "Recharge";
+"GlobalBuyer_My_Wallet_Cash"="Cash withdrawal";
+"GlobalBuyer_My_Wallet_Refund" = "Refund";
+"GlobalBuyer_My_Wallet_Allrecords" = "Allrecords";
+"GlobalBuyer_My_Wallet_Recordsofconsumption" = "Recordsofconsumption";
+"GlobalBuyer_My_Wallet_Rechargerecord" = "Rechargerecord";
+"GlobalBuyer_My_Wallet_Paymentorder" = "Paymentorder";
+"GlobalBuyer_My_Wallet_Paymentoffreight" = "Paymentoffreight";
+"GlobalBuyer_My_Wallet_PayNumber" = "PayNumber";
+"GlobalBuyer_My_Wallet_EnterTheAmount" = "Please enter the amount of recharge";
+"GlobalBuyer_My_Wallet_CurrentCurrency" = "Current revalued currency:";
+"GlobalBuyer_My_Wallet_RefundApplication" = "Refund application";
+"GlobalBuyer_My_Wallet_EnterTheAmountOfTheRefund" = "Please enter the amount of the refund application";
+"GlobalBuyer_My_Wallet_TheAmountOfTheRefunds" = "The amount of the refunds";
+"GlobalBuyer_My_Wallet_AuditStatus" = "AuditStatus:";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit" = "Audit";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit_Success" = "AuditSuccess";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit_Fail" = "AuditFail";
+"GlobalBuyer_My_Wallet_AuditStatus_Success" = "Success";
+"GlobalBuyer_My_Wallet_AuditStatus_Fail" = "Fail";
+"GlobalBuyer_My_Wallet_REPWD" = "Retrieve / modify the password";
+"GlobalBuyer_My_Wallet_SendCode" = "We will send a verification code to your mailbox / phone";
+
+"GlobalBuyer_My_areSureWeChat" = "Are you sure you want to unbind WeChat?";
+"GlobalBuyer_My_areSureFaceBook" = "Are you sure you want to unbind Facebook?";
+"GlobalBuyer_My_bindWeChatLogin" = "Bind Wechat";
+"GlobalBuyer_My_unbindWeChatLogin" = "Unbind Wechat";
+"GlobalBuyer_My_bindFaceBookLogin" = "Bind facebook";
+"GlobalBuyer_My_unbindFaceBookLogin" = "Unbind Facebook";
+"GlobalBuyer_My_binding" = "binding";
+"GlobalBuyer_My_bindSuccess" = "binding successfully";
+"GlobalBuyer_My_bindFail" = "binding failed";
+"GlobalBuyer_My_Hasbind" = "Bindings of other accounts";
+"GlobalBuyer_My_unbinding" = "unbinding";
+"GlobalBuyer_My_unbindSuccess" = "unbinding successfully";
+"GlobalBuyer_My_unbindFail" = "unbinding failed";
+"GlobalBuyer_My_hasEmail" = "this telephone has existed";
+"GlobalBuyer_My_reBindEmail" = "rebinding";
+"GlobalBuyer_My_sePassWord" = "password retrieval";
+"GlobalBuyer_My_inputTureEmail" = "Please input the correct email";
+"GlobalBuyer_My_inviteCodeFail" = "Inviting code to fill in a mistake";
+"GlobalBuyer_My_loginEmailBoxChangePassWord" = "Please login to your email to change the password";
+"GlobalBuyer_My_thereisnologisticsdata" = "there is no logistics data";
+"GlobalBuyer_My_purchasinggoods_title" = "Purchasing goods";
+"GlobalBuyer_My_purchasinggoods" = "Purchasing goods";
+"GlobalBuyer_My_Procuredgoods" = "ProcuredGoods";
+"GlobalBuyer_My_paymentofbalance" = "Payment of balance";
+"GlobalBuyer_My_Inshipment" = "In shipment";
+"GlobalBuyer_My_Share_text" = "The world is in your eyes!";
+"GlobalBuyer_My_Share" = "Share";
+"GlobalBuyer_My_shareinthewechat" = "Share in the wechat";
+"GlobalBuyer_My_QRCode" = "QRCode";
+"GlobalBuyer_My_SaveQRCode" = "Save to the album";
+"GlobalBuyer_My_ShareQRCode" = "Share in the wechat";
+"GlobalBuyer_My_Profit" = "Profit";
+"GlobalBuyer_My_MyFriend" = "MyFriend";
+"GlobalBuyer_My_Empty" = "You don't have any orders. Go and pick it up.";
+"GlobalBuyer_My_NoCoupons" = "You don't have a coupon yet.";
+"GlobalBuyer_My_BrowseTheHomePage" = "Browse The Home Page";
+"GlobalBuyer_My_SelectionOfServices" = "Selection Of Services";
+"GlobalBuyer_My_ConfirmationOfReceipt" = "Confirmation Of Receipt";
+"GlobalBuyer_My_ApplicationForDistribution" = "Immediate application";
+
+"GlobalBuyer_My_Date" = "Date";
+"GlobalBuyer_My_ServiceLocation" = "ServiceLocation";
+"GlobalBuyer_My_Detailed" = "Detailed";
+"GlobalBuyer_My_SetLanguage" = "Setting language";
+
+"GlobalBuyer_MyQRCodeV_Title" = "QRCode";
+"GlobalBuyer_Profit_Title_lift" = "Gold coins (a)";
+"GlobalBuyer_Profit_Title_right" = "Number of friends (one)";
+"GlobalBuyer_Profit_History" = "Historical records";
+"GlobalBuyer_Profit_NowMonth" = "Look at the month";
+"GlobalBuyer_Profit_SelectMonth" = "Please choose the time for inquiry";
+
+"GlobalBuyer_GoodsDetail_Notice" = "Shopping assistant is coming soon~~~";
+"GlobalBuyer_GoodsDetail_ThirtyMin" = "After adding the shopping cart, please complete the transaction within 24 hours.";
+
+"GlobalBuyer_Amazon_Title" = "Amazon";
+"GlobalBuyer_Amazon_Fixedprice" = "World famous station";
+"GlobalBuyer_Amazon_Brand" = "Brand";
+"GlobalBuyer_Amazon_OverseasShoppingInformation" = "Overseas shopping information";
+"GlobalBuyer_Amazon_NoBuy" = "Out of stock";
+"GlobalBuyer_Amazon_NoBrand" = "No brand";
+"GlobalBuyer_Amazon_AlertSize" = "Cue: Please fill in the size and color of your goods, and we will help you with the purchase.";
+"GlobalBuyer_Amazon_From" = "From";
+"GlobalBuyer_Amazon_FixedpriceAll" = "Fixed price";
+"GlobalBuyer_Amazon_NewInformation" = "New Information";
+"GlobalBuyer_Amazon_NoGoods" = "Sold out";
+"GlobalBuyer_Amazon_TotalPriceHint" = "The price includes commodity costs, local freight, international freight, consumption tax and tariff all expenses. Only one payment is needed, waiting for the receipt of the goods.";
+"GlobalBuyer_Amazon_NoPrompt" = "No longer prompt";
+"GlobalBuyer_Amazon_OK" = "OK";
+
+
+"GlobalBuyer_Logistics_Inspection" = "Inspection photos";
+"GlobalBuyer_Shopcart_SelectGoods" = "Please choose goods";
+"GlobalBuyer_Shopcart_Submit" = "Submit";
+"GlobalBuyer_Shopcart_Consignee" = "Consignee";
+"GlobalBuyer_Shopcart_SelectPurchaseMode" = "Please choose the way of buying and buying";
+"GlobalBuyer_Shopcart_DirectMail" = "Direct hair purchase";
+"GlobalBuyer_Shopcart_Collect" = "Send a warehouse to collect goods";
+"GlobalBuyer_Shopcart_SelectInspection" = "Please choose whether to check the goods or not.";
+"GlobalBuyer_Shopcart_Inspection" = "Photo inspection";
+"GlobalBuyer_Shopcart_NoInspection" = "Not checking goods";
+"GlobalBuyer_Shopcart_DoNotUseCoupons" = "Do not use coupons";
+"GlobalBuyer_Shopcart_BuyAgain" = "BuyAgain";
+"GlobalBuyer_Shopcart_Invoice" = "invoice";
+"GlobalBuyer_Shopcart_NOInvoice" = "Charitable donation";
+"GlobalBuyer_Shopcart_Invoice_Type" = "Billing method";
+"GlobalBuyer_Shopcart_Invoice_Type_R" = "personal";
+"GlobalBuyer_Shopcart_Invoice_Type_C" = "company";
+"GlobalBuyer_Shopcart_Invoice_Information" = "Fill in information";
+"GlobalBuyer_Shopcart_Invoice_Type_R_Name" = "Please fill in the name.";
+"GlobalBuyer_Shopcart_Invoice_Type_R_Email" = "Notify mailbox";
+"GlobalBuyer_Shopcart_Invoice_Type_C_ID" = "Please fill in the Purchaser's Uniform Number";
+"GlobalBuyer_Shopcart_Invoice_Tips" = "Invoice information must be filled in";
+"GlobalBuyer_Shopcart_Coupon_YES" = "Preferential offer";
+"GlobalBuyer_Shopcart_Coupon_NO" = "No discount";
+
+"GlobalBuyer_TaobaoTransport_ProcessIntroduction" = "ProcessIntroduction";
+"GlobalBuyer_TaobaoTransport_AuthorizedLogin" = "TranshipingNow";
+"GlobalBuyer_TaobaoTransport_ApplicationForTransshipment" = "ApplicationForTransshipment";
+"GlobalBuyer_TaobaoTransport_TransshipmentList" = "TransshipmentList";
+"GlobalBuyer_TaobaoTransport_TransshipmentGoods" = "Transshipment";
+"GlobalBuyer_TaobaoTransport_UnselectedCommodityCategory" = "-UnselectedCommodityCategory-";
+"GlobalBuyer_TaobaoTransport_TransportDetails" = "TransportDetails";
+"GlobalBuyer_TaobaoTransport_OrderSuccess" = "Order Success";
+"GlobalBuyer_TaobaoTransport_AdoptAndSettlement" = "Your transhipment order has been approved and can be used to settle your transhipment goods. Please fill in the following receiving address at the time of settlement.";
+"GlobalBuyer_TaobaoTransport_Addressee" = "Addressee";
+"GlobalBuyer_TaobaoTransport_DetailedAddress" = "DetailedAddress";
+"GlobalBuyer_TaobaoTransport_TaobaoSettlement" = "TaobaoSettlement";
+"GlobalBuyer_TaobaoTransport_InAppSettlement" = "Settlement";
+"GlobalBuyer_TaobaoTransport_ViewReceiptInformation" = "ViewReceiptInformation";
+"GlobalBuyer_TaobaoTransport_Copy" = "Copy";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeFilled" = "ExpressOrderNumberToBeFilled";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeFilling" = "ExpressOrderNumberToBeFilling";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeDelete"="OrderToDelete";
+"GlobalBuyer_TaobaoTransport_Ordinary" = "Ordinary";
+"GlobalBuyer_TaobaoTransport_Special" = "Special";
+"GlobalBuyer_TaobaoTransport_TipsOne" = "The goods you choose to transshipment include both general and special goods, and will collect goods according to special goods.";
+"GlobalBuyer_TaobaoTransport_TipsTwo" = "View special goods charge standard";
+
+"GlobalBuyer_TaobaoTransport_EntrustBtn" = "Entrust";
+"GlobalBuyer_TaobaoTransport_EntrustNum" = "Purchase quantity";
+
+"GlobalBuyer_GlobalBuyer_Dis" = "There are many electric shopping websites in many countries around the world. There are well-known e-commerce platforms, and there are many small and beautiful websites. Here you can find new shopping platforms that you didn't know before, and we'll keep updating quality overseas new stations to bring you more surprises. You also have the opportunity to get rebates while exploring new stations and shopping. What are you waiting for? Let's take a tour around the world.";
+"GlobalBuyer_GlobalBuyer_Dis_one" = "Transshipment authorization";
+"GlobalBuyer_GlobalBuyer_Dis_two" = "Addition of transport";
+"GlobalBuyer_GlobalBuyer_Dis_three" = "Choose commodity category, add receipt address";
+"GlobalBuyer_GlobalBuyer_Dis_four" = "Audit success";
+"GlobalBuyer_GlobalBuyer_Dis_five" = "Jump to Taobao settlement, modify receipt warehouse address";
+"GlobalBuyer_GlobalBuyer_Dis_six" = "Fill in the express number.";
+
+"GlobalBuyer_Home_ScrollView_imageName1"="英文";
+"GlobalBuyer_Home_ScrollView_imageName2"="英文拷贝";
+"GlobalBuyer_Home_ScrollView_imageName3"="英文2";
+"GlobalBuyer_Home_ScrollView_labelName1"="1. Reproduce the links of the goods you like.";
+"GlobalBuyer_Home_ScrollView_labelName2"="2. Paste your replicated product links in the search box above.";
+"GlobalBuyer_Home_ScrollView_labelName3"="3. Click the search button below to find the product.";
+
+"GlobalBuyer_Home_activity_sectionTitle"="Past activities";
+
+"GlobalBuyer_CashView_Withdrawal_amount"="Withdrawal amount";
+"GlobalBuyer_CashView_All_Withdrawal"="All withdrawals";
+"GlobalBuyer_CashView_Withdrawal"="withdraw cash";
+"GlobalBuyer_CashView_transactionDetails_navTitle"="transaction details";
+"GlobalBuyer_CashDetails_Withdrawal_success"="Successful withdrawals";
+"GlobalBuyer_CashDetails_Withdrawal_in_processing"="Withdrawal processing";
+"GlobalBuyer_CashDetails_Withdrawal_Processing_progress"="Processing progress";
+"GlobalBuyer_CashDetails_Withdrawal_Payment_success"="Successful payment";
+"GlobalBuyer_CashDetails_Withdrawal_BankProcessing"="Bank Processing";
+"GlobalBuyer_CashDetails_Withdrawal_Arrival_account"="Arrival account";
+"GlobalBuyer_CashDetails_Withdrawal_To_cash"="To cash";
+"GlobalBuyer_CashDetails_Withdrawal_Creation_time"="Creation time";
+"GlobalBuyer_CashDetails_Withdrawal_Order_number"="Order number";
+
+"GlobalBuyer_MyView_orderView_order"="My order";
+"GlobalBuyer_MyView_taobaoView_taobao"="Taobao transshipment";
+"GlobalBuyer_MyView_serviceView_service"="My service";
+"GlobalBuyer_MyView_partnerView_partner"="Partner";
+
+
+"GlobalBuyer_shopNotiView_msg" = "Wotada is fully committed to protecting your personal privacy, please refer to the 《Wotada Global Buyers Privacy Policy》";
+"GlobalBuyer_shopNotiView_btn" = "details";
+
+"GlobalBuyer_feedback" = "feedback";
+"GlobalBuyer_feed_title" = "Feedback";
+"GlobalBuyer_feed_titleType" = "Types of Feedback Problems";
+"GlobalBuyer_feed_btn_1" = "Slow loading speed of website";
+"GlobalBuyer_feed_btn_2" = "Translation button does not display";
+"GlobalBuyer_feed_btn_3" = "Button click no response";
+"GlobalBuyer_feed_btn_4" = "Improper translation";
+"GlobalBuyer_feed_btn_5" = "The operation is too complicated";
+"GlobalBuyer_feed_btn_6" = "New Functional Recommendations";
+"GlobalBuyer_feed_placeHoder" = "No more than 300 words";
+"GlobalBuyer_feed_tishi" = "Thank you very much for your feedback. Your comments are very important for the promotion of global buyers. If you are not a member of global buyers, please leave your contact information. Our Customer Service Commissioner will contact you later and thank you.";
+"GlobalBuyer_feed_submit" = "submit";
+"GlobalBuyer_feed_label1" = "Content cannot be empty";
+"GlobalBuyer_feed_label2" = "Send successfully";
+"GlobalBuyer_feed_label3" = "fail in send";
+
+"GlobalBuyer_home_more" = "more";
+"GlobalBuyer_home_bannerTitle" = "Know Us / First Use Wotada Global Buyers";
+"GlobalBuyer_home_bargainGoods" = "Specials";
+"GlobalBuyer_home_bargainGoods_content" = "Global Famous Official Website Promotion Feedback! The more you buy, the more you earn!";
+"GlobalBuyer_home_HotCommodity" = "Hot commodity";
+"GlobalBuyer_home_HotCommodity_content" = "Wotada selects the superior goods for you";
+"GlobalBuyer_home_Preferential_activities" = "favorable price";
+"GlobalBuyer_home_Preferential_2330" = "Bring websites 2330... Continuous increasing";
+//"GlobalBuyer_home_GlobalGoodStation" = "Global good station";
+//"GlobalBuyer_home_GlobalGoodStation_content" = "Global good station";
+
+"GlobalBuyer_order_title" = "Reasons for choosing to cancel an order";
+"GlobalBuyer_order_reason1" = "I don't want to buy it";
+"GlobalBuyer_order_reason2" = "Shortage";
+"GlobalBuyer_order_reason3" = "Incorrect information";
+"GlobalBuyer_order_reason4" = "Other";
+"GlobalBuyer_order_textField_placeholder" = "Input reason";
+"GlobalBuyer_order_deleteOrder?" = "Confirm deletion order?";
+
+"GlobalBuyer_taobaocart_tishi" = "Please choose the goods first";
+"GlobalBuyer_tb_cart" = "Taobao shopping cart";
+"GlobalBuyer_jd_cart" = "Jingdong shopping cart";
+"GlobalBuyer_yx_cart" = "Yan Xuan shopping cart";
+"GlobalBuyer_zdy_cart" = "Transportation of optional products";
+"GlobalBuyer_1688_cart" = "1688 shopping cart";
+"GlobalBuyer_goodsInfo" = "";
+
+"GlobalBuyer_goodsInfo" = "Fill in product information";
+"GlobalBuyer_zdy_goodsImg" = "Commodity pictures";
+"GlobalBuyer_zdy_goodsName" = "goodsName";
+"GlobalBuyer_zdy_goodsLink" = "Website";
+"GlobalBuyer_zdy_goodsParam" = "Commodity specification";
+"GlobalBuyer_zdy_goodsPrice" = "price";
+"GlobalBuyer_zdy_goodsCurrecy" = "Commodity currency";
+"GlobalBuyer_zdy_goodsNum" = "number";
+
+"GlobalBuyer_zdy_inputName" = "Please enter the product name";
+"GlobalBuyer_zdy_inputLink" = "Please enter the web address";
+"GlobalBuyer_zdy_inputParam" = "Please enter product specification";
+"GlobalBuyer_zdy_inputPrice" = "Please enter unit price";
+"GlobalBuyer_zdy_inputImg" = "Please upload the picture";
+"GlobalBuyer_zdy_seleteCurrecy" = "Please select currency";
+
+"GlobalBuyer_zdy_addGoods" = "Add merchandise";
+"link_null" = "Web address cannot be empty";
+"goodsName_null" = "Commodity name cannot be empty";
+"goodsParam_null" = "Product specification cannot be empty";
+"goodsPrice_null" = "Unit price cannot be empty";
+"noupload_img" = "Product image not uploaded";
+"nocurrecy_img" = "Commodity currency not selected";
+"uploaded_yy" = "Uploaded";
+"goods_list_new" = "goodsList";
+"listNumber_new" = "Serial number";
+"new_param" = "Specifications";
+"new_delete" = "delete";
+"new_update" = "modify";
+"new_confirm" = "confirm";
+
+"new_CNY"= "RMB";
+"new_TWD"= "Taiwan currency";
+"new_USD"= "dollar";
+"new_JPY"= "Yen";
+"new_EUR"= "Euro";
+"new_GBP"= "Pound";
+"new_AUD"= "Australian dollar";
+"new_KRW"= "South Korean won";
+"new_HKD"= "Hong Kong dollar";
+
+"new_sum" = "Total";
+"new_updateImg"= "Upload pictures";
+"new_paizhao"="Photograph";
+"new_xiangce"="Album selection";
+"new_lianjie"="Paste links";
+
+"new_seleteSHDQ"="Please select your receiving area";
+
+

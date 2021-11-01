@@ -1,0 +1,567 @@
+/* 
+  Localizable.strings
+  GlobalBuyer
+
+  Created by 薛铭 on 2017/6/19.
+  Copyright © 2017年 薛铭. All rights reserved.
+*/
+"GlobalBuyer_OnlineService" = "線上客服";
+
+"GlobalBuyer_Nativelanguage" = "zh-Hant";
+
+"GlobalBuyer_Home_title" = "wotada";
+"GlobalBuyer_Homepage" = "主頁";
+"GlobalBuyer_Classification" = "網站";
+"GlobalBuyer_ShoppingCart" = "購物車";
+"GlobalBuyer_My" = "我的";
+"GlobalBuyer_Help" = "幫助";
+"GlobalBuyer_Helpcenter" = "幫助中心";
+
+"GlobalBuyer_Network_StatusNotReachable" = "當前沒有網絡未連接";
+"GlobalBuyer_Network_StatusReachableViaWWAN" = "當前正在使用蜂窩移動網絡";
+"GlobalBuyer_Network_StatusReachableViaWiFi" = "當前正在使用wifi";
+
+"GlobalBuyer_Prompt" = "提示";
+"GlobalBuyer_Ok" = "確定";
+"GlobalBuyer_Cancel" = "取消";
+
+"GlobalBuyer_Selectcurrency" = "請選擇收貨地區";
+"GlobalBuyer_Close" = "關閉";
+"GlobalBuyer_Loading" = "加載中...";
+
+"GlobalBuyer_InputOriginal" = "英文或當地語種作為關鍵字，更容易蒐索到商品.";
+
+"GlobalBuyer_Searching" = "蒐索";
+
+"GlobalBuyer_Tabview_down_MJRefreshStateIdle" = "下拉可以重繪";
+"GlobalBuyer_Tabview_down_MJRefreshStatePulling" = "鬆開立即重繪";
+"GlobalBuyer_Tabview_down_MJRefreshStateRefreshing" = "我們正在幫您蒐集商品";
+"GlobalBuyer_Tabview_up_MJRefreshStateIdle" = "點擊或下拉加載更多";
+"GlobalBuyer_Tabview_up_MJRefreshStatePulling" = "正在努力加載中…";
+"GlobalBuyer_Tabview_up_MJRefreshStateRefreshing" = "親，沒有了";
+
+
+"GlobalBuyer_Home_HeaderView_Classification" = "分類";
+"GlobalBuyer_Home_HeaderView_TaobaoCollection" = "淘寶集運";
+"GlobalBuyer_Home_HeaderView_Comprehensive" = "綜合";
+"GlobalBuyer_Home_HeaderView_Popularity" = "人氣";
+"GlobalBuyer_Home_HeaderView_Originalprice" = "折扣";
+"GlobalBuyer_Home_HeaderView_Discountprice" = "最新";
+"GlobalBuyer_Home_Nowprice" = "價格";
+"GlobalBuyer_Home_price" = "原價";
+"GlobalBuyer_Home_Discountprice" = "折扣價";
+"GlobalBuyer_Home_Allprice" = "總計";
+"GlobalBuyer_Home_Discount" = "折";
+"GlobalBuyer_Home_Notice" = "公告";
+"GlobalBuyer_Home_PurchasingLink" = "wotada檢測到您想購買的商品，粘貼連結，輕鬆購買！";
+"GlobalBuyer_Home_GlobalClassification" = "全球好站";
+"GlobalBuyer_Home_SearchEmpty_one" = "抱歉，沒有找到與’";
+"GlobalBuyer_Home_SearchEmpty_two" = "‘相關的商品";
+"GlobalBuyer_Home_Search_deleteHis" = "清除歷史記錄";
+
+"GlobalBuyer_Shopcart_SubmitPurchasing" = "提交購買單";
+"GlobalBuyer_Shopcart_Pay" = "支付商品費用";
+"GlobalBuyer_Shopcart_Purchasing" = "wotada購買";
+"GlobalBuyer_Shopcart_SubmitTransport" = "提交購買單";
+"GlobalBuyer_Shopcart_ConfirmReceipt" = "確認收貨";
+"GlobalBuyer_Shopcart_Shoppingguide" = "購物須知";
+"GlobalBuyer_Shopcart_Shoppingguide_1" = "1.您當前支付的金額僅為商品境內產生的費用，待商品採購成功之後，在“我的訂單”中請完成國際費用（關稅、運費等）支付。";
+"GlobalBuyer_Shopcart_Shoppingguide_2" = "2.添加购物车之后，请在30分钟之内完成结算，否则商品失效自动添加到“我的”→“收藏”中，需要您重新选择购买，敬请谅解。";
+"GlobalBuyer_Shopcart_Shoppingguide_3" = "3.展示商品折扣為限時搶購折扣，最終支付的結算價以網站顯示結算價為准。";
+"GlobalBuyer_Shopcart_Shoppingguide_4" = "4.購買商品時，我們將收取10元人民幣服務費。";
+"GlobalBuyer_Shopcart_login" = "馬上去登入";
+"GlobalBuyer_Shopcart_Nologin" = "親，您還沒有登錄";
+"GlobalBuyer_Shopcart_NoGoodsNotice" = "購物車裏沒有東西哦,快去挑選吧～";
+"GlobalBuyer_Shopcart_Allprice" = "合計";
+"GlobalBuyer_Shopcart_Allselect" = "全選";
+"GlobalBuyer_Shopcart_Settlement" = "去結算";
+"GlobalBuyer_Shopcart_Remainingtime" = "剩餘時間";
+"GlobalBuyer_Shopcart_Notice" = "商品已失效，向左滑動重新操作";
+"GlobalBuyer_Shopcart_SettlementAlert" = "部分商品結算過程中會取整數值，最終結算金額以支付介面為准。";
+"GlobalBuyer_Shopcart_AllNotice" = "不含關稅+國際運費";
+"GlobalBuyer_Shopcart_ExpiredHint" = "購物車商品1天後，因價格變動會移至我的 -> 收藏中。";
+
+
+
+"GlobalBuyer_My_Login" = "點擊登入";
+"GlobalBuyer_My_Tabview_Order" = "我的";
+"GlobalBuyer_My_DistributionActivities" = "加入邀請者聯盟，最高可得10%返利";
+"GlobalBuyer_My_Tabview_Coupon" = "優惠劵";
+"GlobalBuyer_My_Tabview_Coupon_Date" = "有效期至";
+"GlobalBuyer_My_Tabview_Coupon_Type_1" = "服務費\n低值劵";
+"GlobalBuyer_My_Tabview_InputCouponCode" = "請輸入兌換碼";
+"GlobalBuyer_My_Tabview_InputCouponCode_Success" = "兌換成功";
+"GlobalBuyer_My_Tabview_Exchange" = "兌換";
+"GlobalBuyer_My_Tabview_Collection" = "收藏";
+"GlobalBuyer_My_Tabview_HeaderTitle" = "訂單";
+"GlobalBuyer_My_Tabview_Cell_All" = "全部訂單";
+"GlobalBuyer_My_Tabview_Cell_Wait" = "待支付訂單";
+"GlobalBuyer_My_Tabview_Cell_SubmitAdd" = "提交地址";
+"GlobalBuyer_My_Tabview_Cell_Purchase" = "採購中";
+"GlobalBuyer_My_Tabview_Cell_Paytransport" = "支付運費";
+"GlobalBuyer_My_Tabview_Cell_Overseas" = "海外發貨";
+"GlobalBuyer_My_Tabview_Cell_Add" = "收貨地址";
+"GlobalBuyer_My_NavRight" = "個人資訊";
+"GlobalBuyer_My_Addmanagement" = "地址管理";
+"GlobalBuyer_My_About" = "關於";
+"GlobalBuyer_My_About_cell" = "關於wotada";
+"GlobalBuyer_My_About_Version" = "版本";
+"GlobalBuyer_My_About_Collection" = "收藏";
+
+"GlobalBuyer_Order_title" = "物流資訊";
+"GlobalBuyer_Order_Weight" = "包裹重量";
+"GlobalBuyer_Order_all" = "全部";
+"GlobalBuyer_Order_Pay_Message" = "支付通知";
+"GlobalBuyer_Order_Pay_Message_commodity" = "支付成功";
+"GlobalBuyer_Order_Pay_Message_fail" = "支付失敗";
+"GlobalBuyer_Order_Pay_Message_freight" = "您已支付運費成功";
+"GlobalBuyer_Order_Pay_Message_Incalculation" = "運費正在計算中，請稍後";
+"GlobalBuyer_Order_Pay_Message_AddAdd" = "正在添加地址...";
+"GlobalBuyer_Order_Pay_Message_Queryfailed" = "査詢失敗，請稍後";
+"GlobalBuyer_Order_Pay_status_nopay" = "訂單狀態：未支付商品";
+"GlobalBuyer_Order_Pay_status_nopay_btn" = "支付商品";
+"GlobalBuyer_Order_Pay_status_Add" = "訂單狀態：支付商品完成，點擊提交收貨地址";
+"GlobalBuyer_Order_Pay_status_Add_btn" = "添加地址";
+"GlobalBuyer_Order_Pay_status_freighting" = "訂單狀態：支付商品完成，等待計算運費";
+"GlobalBuyer_Order_Pay_status_freight_btn" = "支付運費";
+"GlobalBuyer_Order_Pay_status_freight" = "訂單狀態：請支付運費";
+"GlobalBuyer_Order_Pay_status_Inpurchasing" = "訂單狀態：採購中";
+"GlobalBuyer_Order_Pay_status_done" = "訂單狀態：訂單完成，點擊查看物流";
+"GlobalBuyer_Order_Pay_status_done_btn" = "查看物流";
+"GlobalBuyer_Order_Pay_TheAmount" = "本次支付金額";
+"GlobalBuyer_Order_Pay_SetPWD" = "請設置密碼";
+"GlobalBuyer_Order_Pay_NOSetPWD" = "您還沒有設定錢包支付密碼";
+"GlobalBuyer_Order_Pay_AgainSetPWD" = "再次確認密碼";
+"GlobalBuyer_Order_Pay_IsBan" = "您的錢包已被凍結，請聯系客服。";
+"GlobalBuyer_Order_Pay_NotEnough" = "餘額不足請到會員中心充值";
+
+"GlobalBuyer_UserInfo_change" = "修改";
+"GlobalBuyer_UserInfo_exit" = "退出帳號";
+"GlobalBuyer_UserInfo_Alert_title" = "友情提示";
+"GlobalBuyer_UserInfo_Alert_message" = "真的要打算退出帳號嗎？";
+"GlobalBuyer_UserInfo_name" = "真實姓名";
+"GlobalBuyer_UserInfo_nickname" = "用戶名稱";
+"GlobalBuyer_UserInfo_ID" = "身份證號";
+"GlobalBuyer_UserInfo_ID_F" = "上傳身份證正面";
+"GlobalBuyer_UserInfo_ID_B" = "上傳身份證背面";
+"GlobalBuyer_UserInfo_Gender" = "性别";
+"GlobalBuyer_UserInfo_phone" = "電話";
+"GlobalBuyer_UserInfo_nan" = "男";
+"GlobalBuyer_UserInfo_nv" = "女";
+"GlobalBuyer_UserInfo_Birthday" = "出生日期";
+"GlobalBuyer_UserInfo_changeInfo" = "修改個人資訊";
+"GlobalBuyer_UserInfo_choesnanornv" = "性別選擇";
+"GlobalBuyer_UserInfo_changename" = "修改真實姓名";
+"GlobalBuyer_UserInfo_changenickname" = "修改用戶名稱";
+"GlobalBuyer_UserInfo_changeID" = "修改身份證號";
+"GlobalBuyer_UserInfo_changephone" = "修改電話號碼";
+"GlobalBuyer_UserInfo_changePW" = "修改密碼";
+"GlobalBuyer_UserInfo_PWGuide" = "請輸入6-20比特數位、字母的密碼";
+"GlobalBuyer_UserInfo_AgnPWGuide" = "請再次輸入6-20比特數位、字母的密碼";
+"GlobalBuyer_UserInfo_PWError" = "請輸入6 - 20數位和字母組合密碼";
+"GlobalBuyer_UserInfo_PWdif" = "兩次密碼不符";
+"GlobalBuyer_UserInfo_BankId" = "銀行卡號";
+"GlobalBuyer_UserInfo_DataError" = "請檢查填寫資料的完整性";
+
+
+"GlobalBuyer_Address_title" = "添加收貨地址";
+"GlobalBuyer_Address_NoAddmessage" = "您還沒有選擇地址";
+"GlobalBuyer_Address_AddNewAdd" = "添加新地址";
+"GlobalBuyer_Address_deleteAdd" = "正在删除…";
+"GlobalBuyer_Address_getAdd" = "正在獲取資訊…";
+"GlobalBuyer_Address_AddAdmin" = "地址管理";
+"GlobalBuyer_Address_EditAdd" = "新增地址";
+"GlobalBuyer_Address_DefaultAdd" = "設定為默認地址";
+"GlobalBuyer_Address_MessageIncomplete" = "資訊填寫不完整";
+"GlobalBuyer_Address_Saveing" = "正在保存...";
+"GlobalBuyer_Address_Adddetails" = "地址詳情";
+"GlobalBuyer_Address_Save" = "保存";
+"GlobalBuyer_Address_ShopDetail_Message_translate" = "請稍後再進行翻譯";
+"GlobalBuyer_Address_ShopDetail_Message_noselect" = "您還沒有選擇商品類型，請選擇商品類型";
+"GlobalBuyer_Address_AddShopcart" = "我要購買";
+"GlobalBuyer_Address_AddTransport" = "我要轉運";
+"GlobalBuyer_Address_AddShopcart_Add" = "加入購物車";
+"GlobalBuyer_Address_Adding" = "正在添加...";
+"GlobalBuyer_Address_DefaultAdds" = "默認地址";
+"GlobalBuyer_Address_Edit" = "編輯";
+"GlobalBuyer_Address_dele" = "删除";
+
+
+"GlobalBuyer_Map_Seekfailed" = "定位失敗";
+"GlobalBuyer_Map_Seekfailed_Message" = "請在手機設定中開啟定位功能\n開啟步驟：設定>隱私>位置>定位服務下《wotada》應用";
+"GlobalBuyer_Map_SearchPlace" = "蒐索地點";
+"GlobalBuyer_Map_beijing" = "北京";
+"GlobalBuyer_Map_shanghai" = "上海";
+"GlobalBuyer_Map_guangzhou" = "廣州";
+"GlobalBuyer_Map_shenzhen" = "深圳";
+"GlobalBuyer_Map_xiamen" = "廈門";
+"GlobalBuyer_Map_dalian" = "大連";
+"GlobalBuyer_Map_aomen" = "澳門";
+"GlobalBuyer_Map_xianggang" = "香港";
+"GlobalBuyer_Map_taiwan" = "台灣";
+"GlobalBuyer_Map_PlaceRst" = "地點搜索結果";
+
+
+"GlobalBuyer_LoginView_login" = "登入";
+"GlobalBuyer_LoginView_thirdlogin" = "協力帳號登入";
+"GlobalBuyer_LoginView_forgotPW" = "忘記密碼";
+"GlobalBuyer_LoginView_register" = "立即注册";
+"GlobalBuyer_LoginView_inputEmail" = "請輸入郵箱";
+"GlobalBuyer_LoginView_inputPW" = "請輸入密碼";
+"GlobalBuyer_LoginView_EmailError" = "郵箱格式不正確";
+"GlobalBuyer_LoginView_PWError" = "請輸入密碼";
+"GlobalBuyer_LoginView_logining" = "正在登入…";
+"GlobalBuyer_LoginView_Prompt" = "溫馨提示";
+"GlobalBuyer_LoginView_PromptMessage" = "請先安裝微信用戶端";
+
+"GlobalBuyer_LoginView_BindPhoneNumber" = "請綁定電話";
+"GlobalBuyer_LoginView_VerificationCode" = "驗證碼";
+"GlobalBuyer_LoginView_GetVerificationCode" = "獲取驗證碼";
+"GlobalBuyer_LoginView_InputPhoneNumber" = "請輸入電話";
+"GlobalBuyer_LoginView_InputVerificationCode" = "請輸入驗證碼";
+"GlobalBuyer_LoginView_RepeatedAcquisition" = "60秒內禁止重複獲取";
+
+
+"GlobalBuyer_RegisterView_UserRegister" = "用戶註冊";
+"GlobalBuyer_RegisterView_Register" = "注册";
+"GlobalBuyer_RegisterView_Registering" = "正在注册，請稍後…";
+
+
+"GlobalBuyer_PayView_title" = "支付";
+"GlobalBuyer_PayView_paytype_1" = "信用卡一次付清";
+"GlobalBuyer_PayView_paytype_2" = "超商程式碼繳費";
+"GlobalBuyer_PayView_paytype_3" = "支付寶支付";
+"GlobalBuyer_PayView_paytype_4" = "銀聯支付";
+"GlobalBuyer_PayView_choespaytype" = "常用支付方式";
+"GlobalBuyer_PayView_otherpaytype" = "其它支付方式";
+"GlobalBuyer_PayView_taiwan" = "台灣支付";
+"GlobalBuyer_PayView_dalu" = "大陸支付";
+"GlobalBuyer_PayView_Audit" = "提交人工稽核，請耐心等待客服與您聯系。";
+
+"GlobalBuyer_Entrust_Artificial" = "价格波动较大，请提交人工审核。";
+"GlobalBuyer_Entrust_ArtificialLiaison" = "或者直接联系客服操作。";
+"GlobalBuyer_Entrust_expenseListLb" = "委託單試算";
+"GlobalBuyer_Entrust_firstPayLb" = "首次支付費用";
+"GlobalBuyer_Entrust_commodityCostLb" = "商品費用";
+"GlobalBuyer_Entrust_purchasingLb" = "服務費";
+"GlobalBuyer_Entrust_freightLb" = "預付1公斤運費";
+"GlobalBuyer_Entrust_serviceChargeLb" = "支付手續費";
+"GlobalBuyer_Entrust_promptLb" = "(首次+二次付款費用)";
+"GlobalBuyer_Entrust_totalLb" = "預估總價";
+"GlobalBuyer_Entrust_secondPayLb" = "二次支付費用(預估)";
+"GlobalBuyer_Entrust_secondPayRightLb" = "商品到倉後支付";
+"GlobalBuyer_Entrust_secondPayDetailsLb" = "消費稅";
+"GlobalBuyer_Entrust_secondPayDetailsRightLb" = "到倉後確認";
+"GlobalBuyer_Entrust_commodityCostLb_2" = "預估運費";
+"GlobalBuyer_Entrust_purchasingLb_2" = "當地運費";
+"GlobalBuyer_Entrust_freightLb_2" = "關稅";
+"GlobalBuyer_Entrust_serviceChargeLb_2" = "支付手續費";
+"GlobalBuyer_Entrust_serviceChargeRightLb" = "以具體支付時產生的費用為准";
+"GlobalBuyer_Entrust_noticeLb" = "該商品為海外第三方平台商品,wotada只提供購買服務,盡可能幫您協調購買過程中的問題,並不承擔其中的任何責任.";
+"GlobalBuyer_Entrust_btn" = "加入購物車";
+"GlobalBuyer_Entrust_close" = "關     閉";
+"GlobalBuyer_Entrust_Commoditydetails" = "商品詳情";
+"GlobalBuyer_Entrust_Webdetails" = "網站詳情";
+"GlobalBuyer_Entrust_About" = "約";
+"GlobalBuyer_Entrust_globalbear" = "wotada承擔";
+
+"GlobalBuyer_Entrust_counting" = "正在計算…";
+"GlobalBuyer_Entrust_Estimatedweight" = "預估重量(KG)(請自行設定)";
+"GlobalBuyer_Entrust_current" = "當前";
+"GlobalBuyer_Entrust_Category_1" = "普貨商品";
+"GlobalBuyer_Entrust_Category_2" = "特貨商品";
+"GlobalBuyer_Entrust_Category_3" = "液體商品";
+"GlobalBuyer_Entrust_Category_4" = "傢俱商品";
+"GlobalBuyer_Entrust_Category_explain_1" = "普通貨物，除了食品、化妝品、仿品類、電池類、液體類等特殊商品";
+"GlobalBuyer_Entrust_Category_explain_2" = "食品、化妝品（液體除外）、電池類等特殊商品";
+"GlobalBuyer_Entrust_Category_explain_3" = "液體類商品";
+"GlobalBuyer_Entrust_Category_explain_4" = "傢俱類商品(除原木純鐵傢俱外)";
+
+
+"GlobalBuyer_Entrust_Category_loadingPlaceRightLb" = "暫無倉庫";
+"GlobalBuyer_Entrust_Category_commodityCostRightLb" = "該線路未開通";
+"GlobalBuyer_Entrust_Category_shippingAreaLb" = "發貨地區";
+"GlobalBuyer_Entrust_Category_loadingPlaceLb" = "集貨地";
+"GlobalBuyer_Entrust_Category_receivingAreaLb" = "收貨地區";
+"GlobalBuyer_Entrust_Category_categoryLb" = "請選擇商品類別:";
+"GlobalBuyer_Entrust_Category_categoryNoticeLb" = "(如果你選擇的類別不符當地海關標準，以當地海關徵收類別為基準)";
+"GlobalBuyer_Entrust_Category_selectArea" = "請選擇集貨地區";
+"GlobalBuyer_Entrust_Category_ChinaFreight" = "詳見說明";
+"GlobalBuyer_Entrust_Category_TWFreight" = "詳見說明";
+"GlobalBuyer_Entrust_Category_Checkouttoview" = "結算時查看";
+
+
+"GlobalBuyer_CollectionViewController_Source" = "來源";
+"GlobalBuyer_CollectionViewController_Remark" = "備註";
+"GlobalBuyer_CollectionViewController_Calculation" = "試算";
+"GlobalBuyer_SearchViewController_placeholder" = "直搜全球各大電商平臺商品，直接購買";
+"GlobalBuyer_SearchViewController_alertMessage" = "暫無該類型商品";
+"GlobalBuyer_SearchViewController_section_1" = "包含該品牌網站";
+"GlobalBuyer_SearchViewController_section_2" = "包含該品類網站";
+"GlobalBuyer_SearchViewController_Alert_first" = "我們已將您的關鍵字轉為英文";
+"GlobalBuyer_SearchViewController_Alert_left" = "使用原文";
+"GlobalBuyer_SearchViewController_Alert_right" = "使用譯文";
+
+
+"GlobalBuyer_HelpViewController_OnlineService" = "線上客服";
+"GlobalBuyer_HelpViewController_CustomerServiceHotline" = "客服熱線";
+"GlobalBuyer_HelpViewController_Tips" = "小幫手";
+"GlobalBuyer_HelpViewController_QAA" = "常見問題";
+"GlobalBuyer_HelpViewController_Newbiezone" = "新手專區";
+"GlobalBuyer_HelpViewController_servicemode" = "服務方式";
+"GlobalBuyer_HelpViewController_Rightsprotection" = "權益保障";
+
+
+"GlobalBuyer_Special_SingleItemRecommendation" = "單品推薦";
+"GlobalBuyer_Special_Selling" = "熱賣精品 選你所好";
+"GlobalBuyer_Special_More" = "更多";
+"GlobalBuyer_Special_HotRecommendation" = "熱門推薦";
+"GlobalBuyer_Special_Discount" = "折扣立享 驚喜不斷";
+"GlobalBuyer_Special_Web" = "網站大全";
+
+"GlobalBuyer_LoadingView_message_1" = "美國最大的讓利季，會在每年的感恩節期間，wotada陪您一起搶購…";
+"GlobalBuyer_LoadingView_message_2" = "一個正品LV上面的圖案不會被拉鍊所分割，上wotada，火眼金睛不如買的放心…";
+"GlobalBuyer_LoadingView_message_3" = "雙十一一定要提前下單，否則很難搶到便宜貨，飛速填滿wotada購物車…";
+"GlobalBuyer_LoadingView_message_4" = "wotada科普時間：世界上經營時間最長的服裝品牌是香奈兒（1913~至今）";
+"GlobalBuyer_LoadingView_message_5" = "kindle閱讀器的荧幕非通常液晶屏，而是電子墨水屏，護眼看書wotada幫您購";
+"GlobalBuyer_LoadingView_message_6" = "全球知名母嬰品牌：貝親（日本）、費雪（美國）、新安怡（英國）、惠氏（美國）、康貝（日本）等";
+"GlobalBuyer_LoadingView_message_7" = "FaceID面部識別解鎖，會投射30000多個肉眼不可見的光點，為您的臉部繪製精確細緻的深度圖，iphoneX哪裡買？wotada告訴您";
+"GlobalBuyer_LoadingView_message_8" = "添加購物車之後，請在30分鐘內完成結算，否則商品失效自動添加到“我的”“收藏”中，需要您重新選擇購買";
+"GlobalBuyer_LoadingView_message_9" = "首頁推薦商品折扣為限時折扣，最終支付的結算價以網站顯示結算價為准";
+"GlobalBuyer_LoadingView_message_10" = "請在支付商品之前，保證已填寫正確的收貨地址及上傳身份證照片";
+
+
+//显示用
+"GlobalBuyer_Currency_area" = "選擇地區";
+"GlobalBuyer_Currency_rmb" = "中國大陸";
+"GlobalBuyer_Currency_twd" = "台灣";
+"GlobalBuyer_Currency_usd" = "美國";
+"GlobalBuyer_Currency_jpy" = "日本";
+"GlobalBuyer_Currency_franc" = "法國";
+"GlobalBuyer_Currency_gbp" = "英國";
+"GlobalBuyer_Currency_aud" = "澳大利亞";
+"GlobalBuyer_Currency_mark" = "德國";
+"GlobalBuyer_Currency_russia" = "俄羅斯";
+"GlobalBuyer_Currency_canada" = "加拿大";
+
+"GlobalBuyer_Currency_NT" = "台幣";
+
+
+
+//检索用
+"GlobalBuyer_Currency_retrieval_rmb" = "中国";
+"GlobalBuyer_Currency_retrieval_twd" = "台湾";
+"GlobalBuyer_Currency_retrieval_usd" = "美国";
+"GlobalBuyer_Currency_retrieval_jpy" = "日本";
+"GlobalBuyer_Currency_retrieval_franc" = "法国";
+"GlobalBuyer_Currency_retrieval_gbp" = "英国";
+"GlobalBuyer_Currency_retrieval_aud" = "澳大利亚";
+"GlobalBuyer_Currency_retrieval_mark" = "德国";
+"GlobalBuyer_Currency_retrieval_russia" = "俄罗斯";
+"GlobalBuyer_Currency_retrieval_canada" = "加拿大";
+
+
+
+"GlobalBuyer_RegisterView_CooperationRegister" = "合作夥伴注册";
+"GlobalBuyer_RegisterView_Bindmailbox" = "綁定郵箱";
+"GlobalBuyer_RegisterView_Inputmailbox" = "請輸入郵箱";
+"GlobalBuyer_RegisterView_InputInvitation" = "請輸入邀請碼(選填)";
+"GlobalBuyer_RegisterView_IAgree" = "我同意";
+"GlobalBuyer_RegisterView_Agreement" = "《用戶服務協議》";
+"GlobalBuyer_RegisterView_Warningtips" = "同意並閱讀《用戶服務協議》";
+"GlobalBuyer_RegisterView_ScanInvitationCode" = "掃描邀請碼";
+"GlobalBuyer_UserInfo_CurrentCurrency" = "當前幣種";
+"GlobalBuyer_UserInfo_ChangePassWord" = "修改密碼";
+"GlobalBuyer_My_HintOutdated" = "待支付訂單將於1天鐘之後失效並移動至購物車,請您及時付款.";
+"GlobalBuyer_My_WaitPack" = "我的集貨倉";
+"GlobalBuyer_My_Sellerhasshipped" = "賣家已發貨";
+"GlobalBuyer_My_ParcelAudit" = "包裹稽核狀態";
+"GlobalBuyer_My_WaitDeliverGoods" = "待確認收貨";
+"GlobalBuyer_My_CompletedOrder" = "已完成訂單";
+"GlobalBuyer_My_Shipped" = "售後中心";
+"GlobalBuyer_My_BindID" = "綁定身份證";
+"GlobalBuyer_My_BindState" = "綁定狀態";
+"GlobalBuyer_My_BindState_YES" = "已綁定";
+"GlobalBuyer_My_BindState_NO" = "未綁定";
+"GlobalBuyer_My_FillintheIDinfo" = "填寫身份證資訊";
+"GlobalBuyer_My_BindState_FillId" = "請填寫身份證號";
+"GlobalBuyer_My_PaymentOrder" = "支付訂單";
+"GlobalBuyer_My_OrderNum" = "訂單編號";
+"GlobalBuyer_My_Pack" = "打包";
+"GlobalBuyer_My_SelectPack" = "請選擇打包商品";
+"GlobalBuyer_My_SelectAdd" = "請選收貨地址";
+"GlobalBuyer_My_NOBindId" = "該地址未綁定身份證";
+"GlobalBuyer_My_AuditStatus_YES" = "稽核狀態:通過(點擊支付運費)";
+"GlobalBuyer_My_AuditStatus_WAIT" = "稽核狀態:等待稽核中";
+"GlobalBuyer_My_AuditStatus_NO" = "稽核狀態:未通過(點擊重新打包)";
+"GlobalBuyer_My_AuditStatus_clickandrepackage" = "取消打包";
+"GlobalBuyer_My_PackagesNum" = "包裹編號";
+"GlobalBuyer_My_ParcelDetails" = "包裹詳情";
+"GlobalBuyer_My_Waitingforthegoodstobeshipped" = "待發貨商品";
+"GlobalBuyer_My_Goodsshipped" = "已發貨商品";
+"GlobalBuyer_My_inputAdd" = "請到會員中心填寫收貨地址並綁定身份證";
+"GlobalBuyer_My_FreightDetails" = "尾款明細";
+"GlobalBuyer_My_LocalFreight" = "當地運費";
+"GlobalBuyer_My_WarehousingFee" = "倉儲費";
+"GlobalBuyer_My_InternationalShipping" = "國際運費";
+"GlobalBuyer_My_ParcelDuty" = "包裹關稅";
+"GlobalBuyer_My_CommodityPriceDifference" = "商品差價";
+"GlobalBuyer_My_Addfee" = "增值服務費";
+"GlobalBuyer_My_PayFreight" = "支付運費";
+"GlobalBuyer_Home_Scan" = "掃一掃";
+"GlobalBuyer_Home_Scan_refresh" = "綁定成功請重繪網頁";
+"GlobalBuyer_Home_message" = "消息";
+
+"GlobalBuyer_My_Wallet" = "錢包";
+"GlobalBuyer_My_Wallet_Balance" = "餘額";
+"GlobalBuyer_My_Wallet_Recharge" = "充值";
+"GlobalBuyer_My_Wallet_Refund" = "退款";
+"GlobalBuyer_My_Wallet_Allrecords" = "全部記錄";
+"GlobalBuyer_My_Wallet_Recordsofconsumption" = "支出記錄";
+"GlobalBuyer_My_Wallet_Rechargerecord" = "充值記錄";
+"GlobalBuyer_My_Wallet_Paymentorder" = "支付訂單";
+"GlobalBuyer_My_Wallet_Paymentoffreight" = "支付運費";
+"GlobalBuyer_My_Wallet_PayNumber" = "訂單號";
+"GlobalBuyer_My_Wallet_EnterTheAmount" = "請輸入充值金額";
+"GlobalBuyer_My_Wallet_CurrentCurrency" = "當前充值幣種:";
+"GlobalBuyer_My_Wallet_RefundApplication" = "退款申請";
+"GlobalBuyer_My_Wallet_EnterTheAmountOfTheRefund" = "請輸入退款申請的金額";
+"GlobalBuyer_My_Wallet_TheAmountOfTheRefunds" = "本次退款金額";
+"GlobalBuyer_My_Wallet_AuditStatus" = "稽核狀態:";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit" = "稽核中";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit_Success" = "稽核成功";
+"GlobalBuyer_My_Wallet_AuditStatus_Audit_Fail" = "稽核失敗，請重新填寫資料";
+"GlobalBuyer_My_Wallet_AuditStatus_Success" = "已完成退款";
+"GlobalBuyer_My_Wallet_AuditStatus_Fail" = "退款稽核失敗";
+"GlobalBuyer_My_Wallet_REPWD" = "找回/修改密碼";
+"GlobalBuyer_My_Wallet_SendCode" = "我們將向您的郵箱/電話發送驗證碼";
+
+"GlobalBuyer_My_areSureWeChat" = "您確定要解除綁定微信麼?";
+"GlobalBuyer_My_areSureFaceBook" = "您確定要解除綁定facebook麼?";
+"GlobalBuyer_My_bindWeChatLogin" = "綁定微信登入";
+"GlobalBuyer_My_unbindWeChatLogin" = "解綁微信登入";
+"GlobalBuyer_My_bindFaceBookLogin" = "綁定facebook登入";
+"GlobalBuyer_My_unbindFaceBookLogin" = "解綁facebook登入";
+"GlobalBuyer_My_binding" = "正在綁定";
+"GlobalBuyer_My_bindSuccess" = "綁定成功";
+"GlobalBuyer_My_bindFail" = "綁定失敗";
+"GlobalBuyer_My_Hasbind" = "已綁定其他帳號";
+"GlobalBuyer_My_unbinding" = "正在解綁";
+"GlobalBuyer_My_unbindSuccess" = "解綁成功";
+"GlobalBuyer_My_unbindFail" = "解綁失敗";
+"GlobalBuyer_My_hasEmail" = "該電話已存在";
+"GlobalBuyer_My_reBindEmail" = "重新綁定";
+"GlobalBuyer_My_sePassWord" = "找回密碼";
+"GlobalBuyer_My_inputTureEmail" = "請填入正確的验证码/郵箱";
+"GlobalBuyer_My_inviteCodeFail" = "邀請碼填寫錯誤";
+"GlobalBuyer_My_loginEmailBoxChangePassWord" = "已向您的郵箱發送郵件,請注意查收.";
+"GlobalBuyer_My_thereisnologisticsdata" = "暫無該物流數據";
+"GlobalBuyer_My_purchasinggoods_title" = "商品採購";
+"GlobalBuyer_My_purchasinggoods" = "採購中商品";
+"GlobalBuyer_My_Procuredgoods" = "已採購商品";
+"GlobalBuyer_My_paymentofbalance" = "待付尾款";
+"GlobalBuyer_My_Inshipment" = "發貨中";
+"GlobalBuyer_My_Share_text" = "wotada，世界就在你眼前！";
+"GlobalBuyer_My_Share" = "分享";
+"GlobalBuyer_My_shareinthewechat" = "分享wotada";
+"GlobalBuyer_My_QRCode" = "我的二維碼";
+"GlobalBuyer_My_SaveQRCode" = "保存到相册";
+"GlobalBuyer_My_Profit" = "我的金幣";
+"GlobalBuyer_My_MyFriend" = "我的朋友";
+"GlobalBuyer_My_Empty" = "你還沒有相關訂單，快去挑選吧～";
+"GlobalBuyer_My_NoCoupons" = "您還沒有優惠劵哦";
+"GlobalBuyer_My_BrowseTheHomePage" = "逛逛首頁";
+"GlobalBuyer_My_SelectionOfServices" = "請選擇增值服務";
+"GlobalBuyer_My_ConfirmationOfReceipt" = "確認收貨";
+"GlobalBuyer_My_ApplicationForDistribution" = "立即申請";
+
+"GlobalBuyer_My_Date" = "日期";
+"GlobalBuyer_My_ServiceLocation" = "服務地點";
+"GlobalBuyer_My_Detailed" = "詳細資訊";
+"GlobalBuyer_My_SetLanguage" = "語言設定";
+
+"GlobalBuyer_MyQRCodeV_Title" = "我的邀請碼";
+"GlobalBuyer_Profit_Title_lift" = "金幣數(個)";
+"GlobalBuyer_Profit_Title_right" = "好友數(個)";
+"GlobalBuyer_Profit_History" = "歷史記錄";
+"GlobalBuyer_Profit_NowMonth" = "查看當月";
+"GlobalBuyer_Profit_SelectMonth" = "請選擇査詢時間";
+
+
+"GlobalBuyer_GoodsDetail_Notice" = "wotada小助手正在飛速趕來";
+"GlobalBuyer_GoodsDetail_ThirtyMin" = "成功添加購物車，請在1天內支付!";
+
+"GlobalBuyer_Amazon_Title" = "亞馬遜";
+"GlobalBuyer_Amazon_Fixedprice" = "全球名站";
+"GlobalBuyer_Amazon_Brand" = "品牌庫";
+"GlobalBuyer_Amazon_OverseasShoppingInformation" = "海淘資訊";
+"GlobalBuyer_Amazon_NoBuy" = "暫無存貨";
+"GlobalBuyer_Amazon_NoBrand" = "暫無品牌";
+"GlobalBuyer_Amazon_AlertSize" = "提示：請填寫適合您的商品尺碼、顏色，我們將幫您購買……";
+"GlobalBuyer_Amazon_From" = "來自";
+"GlobalBuyer_Amazon_FixedpriceAll" = "到手總價";
+"GlobalBuyer_Amazon_NewInformation" = "新鮮資訊 即時更新";
+"GlobalBuyer_Amazon_NoGoods" = "已售完";
+"GlobalBuyer_Amazon_TotalPriceHint" = "到手價包括商品費用、當地運費、國際運費、消費稅及關稅等所有費用。只需要一次支付，等待收貨即可。";
+"GlobalBuyer_Amazon_NoPrompt" = "不再提示";
+"GlobalBuyer_Amazon_OK" = "知道了";
+
+
+"GlobalBuyer_Logistics_Inspection" = "驗貨照片";
+"GlobalBuyer_Shopcart_SelectGoods" = "請選擇商品";
+"GlobalBuyer_Shopcart_Submit" = "提交";
+"GlobalBuyer_Shopcart_Consignee" = "收貨人";
+"GlobalBuyer_Shopcart_SelectPurchaseMode" = "購買方式";
+"GlobalBuyer_Shopcart_DirectMail" = "購買直發";
+"GlobalBuyer_Shopcart_Collect" = "寄倉集貨";
+"GlobalBuyer_Shopcart_SelectInspection" = "是否驗貨";
+"GlobalBuyer_Shopcart_Inspection" = "驗貨";
+"GlobalBuyer_Shopcart_NoInspection" = "不驗貨";
+"GlobalBuyer_Shopcart_DoNotUseCoupons" = "不使用優惠劵";
+"GlobalBuyer_Shopcart_BuyAgain" = "再次購買";
+"GlobalBuyer_Shopcart_Invoice" = "發票";
+"GlobalBuyer_Shopcart_NOInvoice" = "不開發票";
+"GlobalBuyer_Shopcart_Invoice_Type" = "開票管道";
+"GlobalBuyer_Shopcart_Invoice_Type_R" = "個人";
+"GlobalBuyer_Shopcart_Invoice_Type_C" = "公司";
+"GlobalBuyer_Shopcart_Invoice_Information" = "填寫資訊";
+"GlobalBuyer_Shopcart_Invoice_Type_R_Name" = "請填寫名稱";
+"GlobalBuyer_Shopcart_Invoice_Type_R_Email" = "通知郵箱";
+"GlobalBuyer_Shopcart_Invoice_Type_C_ID" = "請填寫購買人統一編號";
+"GlobalBuyer_Shopcart_Invoice_Tips" = "必須填寫發票資訊";
+"GlobalBuyer_Shopcart_Coupon_YES" = "贈送優惠劵";
+"GlobalBuyer_Shopcart_Coupon_NO" = "不使用優惠劵";
+
+"GlobalBuyer_TaobaoTransport_ProcessIntroduction" = "流程介紹";
+"GlobalBuyer_TaobaoTransport_AuthorizedLogin" = "淘寶授權登入";
+"GlobalBuyer_TaobaoTransport_ApplicationForTransshipment" = "申請轉運";
+"GlobalBuyer_TaobaoTransport_TransshipmentList" = "轉運清單";
+"GlobalBuyer_TaobaoTransport_TransshipmentGoods" = "轉運商品";
+"GlobalBuyer_TaobaoTransport_UnselectedCommodityCategory" = "-未選擇商品類別-";
+"GlobalBuyer_TaobaoTransport_TransportDetails" = "轉運詳細資訊";
+"GlobalBuyer_TaobaoTransport_OrderSuccess" = "訂單提交成功";
+"GlobalBuyer_TaobaoTransport_AdoptAndSettlement" = "您的訂單已稽核通過，可以結算您的轉運商品";
+"GlobalBuyer_TaobaoTransport_Addressee" = "收件人";
+"GlobalBuyer_TaobaoTransport_DetailedAddress" = "詳細地址";
+"GlobalBuyer_TaobaoTransport_TaobaoSettlement" = "去淘寶結算";
+"GlobalBuyer_TaobaoTransport_InAppSettlement" = "在App結算";
+"GlobalBuyer_TaobaoTransport_ViewReceiptInformation" = "查看收貨資訊";
+"GlobalBuyer_TaobaoTransport_Copy" = "複製";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeFilled" = "待填快遞單號";
+"GlobalBuyer_TaobaoTransport_ExpressOrderNumberToBeFilling" = "填寫快遞單號";
+"GlobalBuyer_TaobaoTransport_Ordinary" = "普通商品";
+"GlobalBuyer_TaobaoTransport_Special" = "特殊商品";
+"GlobalBuyer_TaobaoTransport_TipsOne" = "您選擇轉運的商品既有普貨，也有特貨，會統一按照特貨商品進行集貨。";
+"GlobalBuyer_TaobaoTransport_TipsTwo" = "查看特貨收費標準";
+
+"GlobalBuyer_TaobaoTransport_EntrustBtn" = "我要委託";
+"GlobalBuyer_TaobaoTransport_EntrustNum" = "購買數量";
+
+
+"GlobalBuyer_GlobalBuyer_Dis" = "在全球名站中有很多世界各國的電商購物網站。這裡既有知名的電商平臺，也有很多小而美的網站。在這裡您可以發現之前您不曾瞭解的新購物平臺，我們會不斷更新優質的海外新站，為您帶來更多的驚喜。您在探索發現新站及購物的同時也有機會獲得返利。還等什麼！趕緊來一次環球之旅吧！";
+"GlobalBuyer_GlobalBuyer_Dis_one" = "轉運授權";
+"GlobalBuyer_GlobalBuyer_Dis_two" = "添加轉運";
+"GlobalBuyer_GlobalBuyer_Dis_three" = "選商品品類，添加收貨地址";
+"GlobalBuyer_GlobalBuyer_Dis_four" = "稽核成功";
+"GlobalBuyer_GlobalBuyer_Dis_five" = "跳轉淘寶結算，修改收貨倉庫地址";
+"GlobalBuyer_GlobalBuyer_Dis_six" = "填寫快遞單號";
